@@ -1,0 +1,19 @@
+---
+layout: page
+title: Búsqueda
+order: 10
+description: Herramienta de búsqueda textual
+icon: search
+---
+
+<form id="site_search">
+<p class="h3 lh-condensed">Hacer una búsqueda en <i>Relación del descubrimiento del Río de la Plata</i>:</p>
+<br>
+<input id="search" type="text" name="q" autofocus></form>
+
+<div id="results"></div>
+<ul id="search_results"></ul>
+<script src="{{site.baseurl}}/assets/js/elasticlunr.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script src="{{site.baseurl}}/assets/js/search.js"></script>
+

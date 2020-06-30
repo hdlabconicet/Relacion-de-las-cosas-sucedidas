@@ -1,0 +1,27 @@
+<header class="px-2 clearfix">
+  <div class="right-lg absolute-lg right-0 top-0">
+    <ul class="mt-1 mt-lg-2 mr-2 mr-lg-3">
+      <li class="inline-block block-lg text-right ml-1 ml-lg-0">
+        <a class="italic h4 bold no-underline" href="{{ site.baseurl }}/">
+          <!-- {{ site.title }} -->
+          Inicio
+        </a>
+      </li>
+      {% for my_page in site.pages %}
+        {% if my_page.title %}
+        <li class="inline-block block-lg text-right ml-1 ml-lg-0">
+          <a class="italic no-underline h4" href="{{ my_page.url | prepend: site.baseurl }}">
+            {{ my_page.title }}
+          </a>
+        </li>
+        {% endif %}
+      {% endfor %}
+        <li class="inline-block block-lg text-right ml-1 ml-lg-0">
+          <a class="italic no-underline h4 font-smoothing" href="http://hdlab.space/biblioteca-digital/">Biblioteca Digital</a>
+        </li>
+      {% if page.type == "texto" %}
+        <li class="inline-block block-lg text-right ml-1 ml-lg-0"><span style='cursor:pointer;' onclick="javascript:var hypothesis = document.createElement('script');hypothesis.setAttribute('src','https://hypothes.is/embed.js');document.head.appendChild(hypothesis);"><button class="italic h4" >Anotar</button></span></li>
+      {% endif %}
+    </ul>
+  </div>
+</header>

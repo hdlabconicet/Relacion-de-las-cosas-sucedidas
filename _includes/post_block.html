@@ -1,0 +1,8 @@
+<!-- Renders resource title and brief description -->
+<div class="py-1 mb-0 prose">
+  <h2 class="h2 lh-condensed col-9 mb-2">
+  	{% include {{ post.icon }}-icon.svg %} 
+    <a class="no-underline" title="{{ post.url | prepend: site.baseurl }}" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+  </h2>
+  <a class="h3 lh-condensed" href="{{ post.url | prepend: site.baseurl }}"><p>{{ post.description }}</p></a>
+</div>

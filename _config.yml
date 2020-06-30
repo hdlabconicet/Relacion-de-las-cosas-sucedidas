@@ -1,0 +1,24 @@
+title: Relación del descubrimiento del Río de la Plata
+description: 
+baseurl: "/Relacion-del-descubrimiento" 
+url: "http://hdlab.space"
+github_repo: Relacion-del-descubrimiento
+twitter_username: HDCAICYT
+github_username:  hdcaicyt
+facebook_username: HDCAICYTLAB
+
+social_link: twitter
+social_username: hdcaicyt
+
+theme_color: light
+
+# Build settings
+markdown: kramdown
+
+collections:
+    pero_pages:
+      output: true
+    recursos:
+      output: true
+    nombres_destacados:
+      output: true

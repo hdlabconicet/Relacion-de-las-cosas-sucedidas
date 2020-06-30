@@ -1,0 +1,61 @@
+.container {
+  padding: 0 20px;
+  @include container(0);
+
+  @include breakpoint(36em) {
+    @include container(540px);
+  }
+
+  @include breakpoint(48em) {
+    @include container(720px);
+  }
+
+  @include breakpoint(62em) {
+    @include container(960px);
+  }
+
+  @include breakpoint() {
+    @include container(1170px);
+  }
+}
+
+
+@mixin clearfix {
+  &::before {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  &::after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+}
+
+@mixin container($breakpoint) {
+  margin: 0 auto;
+  @if ($breakpoint != 0) {
+    max-width: $breakpoint;
+  } @else {
+    max-width: 100%;
+  }
+}
+
+@mixin breakpoint($query) {
+  @media only screen and (min-width:#{$query}) {
+    @content;
+  }
+}
+
+.post-list {
+  padding-top: 2.5em;
+  display: flex;
+  flex-wrap: wrap;
+  flex: 1 0 auto;
+
+  @include breakpoint(48em) {
+    padding-top: 5em;
+  }
+}

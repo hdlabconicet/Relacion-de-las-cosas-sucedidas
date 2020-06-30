@@ -1,0 +1,23 @@
+  	<!-- Cards-->
+    <div class="post-card" itemprop="blogPosts" itemscope="" itemtype="http://schema.org/BlogPosting" id="{{personaje.lnk}}">
+      <a href="#portfolioModal-{{personaje.lnk}}" class="portfolio-link" data-toggle="modal">
+        {% if personaje.img %}
+          <figure class="post-card__placehold">
+            <img src="{{personaje.img}}" alt="{{personaje.nombre}}-img"/>
+            <noscript><img src="{{personaje.img}}" alt="{{personaje.nombre}}-img"/></noscript>
+          </figure>
+          <p style="font-size: 10px; text-align:left;"><a class="no-underline" href="{{personaje.fuente_url}}  title="via Wikimedia Commons"">{{personaje.fuente}}</a> / <a class="no-underline" href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA</a></p>
+        {% else %}
+          <figure class="post-card__placehold">
+            <div class="dark-bg"></div>
+          </figure>
+        {% endif %}
+      </a>
+      <a class="post-card__inner" href="#portfolioModal-{{personaje.lnk}}" class="portfolio-link" data-toggle="modal">
+        <div class="post-card__header">
+          <h3>{{personaje.nombre}}</h3>
+          <span>{{ personaje.content | strip_html | truncatewords:10 }} </span>
+        </div>
+      </a>
+    </div>
+

@@ -1,0 +1,20 @@
+
+    <!-- Modal-->
+    <div class="modal fade" id="portfolioModal-{{personaje.lnk}}" role="dialog">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal">&times;</button>
+            <h4 class="modal-title">{{personaje.nombre}}</h4>
+          </div>
+          <div class="modal-body">
+            <p>{{personaje.content}}</p>
+            <!-- <div class="col-1 sm-width-full border-top-thick"></div> -->
+            <h5 class="mt-4 mb-1">{{personaje.determinante}} {{personaje.nombre | downcase}} en Relación de un viaje:</h5>
+            <p class="text-right italic" style="font-size: 14px;">{{personaje.detalle}}</p>
+            <p class="text-right italic" style="font-size: 14px;"><a class="no underline" href="{{site.baseurl}}/acarete_pages/{{personaje.fechas}}?q={{personaje.nombre}}">[ver en el texto]</a></p>
+            <button type="button" class="btn btn-default" data-dismiss="modal">Cerrar</button>
+          </div>
+        </div>
+      </div>
+    </div>
