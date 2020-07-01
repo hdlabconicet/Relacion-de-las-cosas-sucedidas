@@ -16,10 +16,9 @@ var index = elasticlunr(function () {
 //Add to this index the proper metadata from the Jekyll content
 
 
-{% assign count = 0 %}{% for text in site.acarete_pages %}
+{% assign count = 0 %}{% for text in site.pages %}
 index.addDoc({
   subtitle: {{text.subtitle | jsonify}},
-  chapter: {{text.chapter | jsonify}},
   layout: {{text.layout | jsonify}},
   content: {{text.content | jsonify | strip_html}},
   id: {{count}}
@@ -29,9 +28,8 @@ console.log( jQuery.type(index) );
 // Builds reference data (maybe not necessary for us, to check)
 
 
-var store = [{% for text in site.acarete_pages %}{
+var store = [{% for text in site.pages %}{
   "subtitle": {{text.subtitle | jsonify}},
-  "chapter": {{text.chapter | jsonify}},
   "layout": {{ text.layout | jsonify }},
   "link": {{text.url | jsonify}},
 },
@@ -64,7 +62,7 @@ function doSearch() {
   //Loop through, match, and add results
   for (var item in result) {
     var ref = result[item].ref;
-    var searchitem = '<div class="result"><p><a href="{{ site.baseurl }}'+store[ref].link+'?q='+query+'">'+store[ref].chapter+' - '+store[ref].subtitle+'</a></p></div>';
+    var searchitem = '<div class="result"><p><a href="{{ site.baseurl }}'+store[ref].link+'?q='+query+'">'+store[ref].subtitle+'</a></p></div>';
     resultdiv.append(searchitem);
   }
 }

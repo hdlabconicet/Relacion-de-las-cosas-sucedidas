@@ -80,7 +80,7 @@
 
         loadPreview: function() {       
             var lugar = this.$el.text().trim();
-            var coordenadas = acaretePlaces[lugar] // acaretePlaces esta definido en acarete-places.js            
+            var coordenadas = perohernandezPlaces[lugar]             
             var map = L.map('map'+this.counter).setView(coordenadas, 3);
             L.tileLayer('http://{s}.tiles.mapbox.com/v3/jamesg87.goac2bf1/{z}/{x}/{y}.png', {
                 attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
