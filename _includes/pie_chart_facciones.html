@@ -1,0 +1,48 @@
+<div id="piechart"><svg style="width:450px;height:450px;"></svg></div>
+
+<script>
+
+data_pieChart=[{"values": [{"value": 3, "label": "Indios aliados"},
+               {"value": 5, "label": "Conquistadores leales"},
+               {"value": 8, "label": "Conquistadores rebeldes"},
+               {"value": 3, "label": "Indios enemigos"}],
+               "key": "Serie 1"}];
+
+nv.addGraph(function() {
+    var chart = nv.models.pieChart();
+    chart.margin({top: 30, right: 60, bottom: 20, left: 60});
+    var datum = data_pieChart[0].values;
+
+chart.tooltipContent(function(key, y, e, graph) {
+      var x = String(key);
+          var y =  String(y)  + ' entidades';
+
+          tooltip_str = '<center><b>'+x+'</b></center>' + y;
+          return tooltip_str;
+          });
+    chart.showLabels(true);
+
+        chart.donut(false);
+
+chart.showLegend(true);
+
+    chart
+        .x(function(d) { return d.label })
+        .y(function(d) { return d.value });
+
+    chart.width(450);
+
+    chart.height(450);
+
+
+        d3.select('#piechart svg')
+        .datum(datum)
+        .transition().duration(500)
+        .attr('width', 450)
+        .attr('height', 450)
+        .call(chart);
+
+
+    });
+</script>
+
