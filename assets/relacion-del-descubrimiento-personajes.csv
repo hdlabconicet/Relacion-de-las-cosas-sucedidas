@@ -1,68 +1,68 @@
-PERSONAJE,VARIANTES,ORIGEN,FACCION,CARGO/PARCIALIDAD,COMMENT,PAGE,CONTEXTO,URL_IMAGEN
-Abacote,,indio,aliado,,,,,
-Agaces,,indio,aliado,,,,,
-Alvar NuÃ±ez Cabeza de Vaca,,conquistador,alvarista,,"Enviado como gobernador al RÃ­o de la Plata, debiÃ³ enfrentar un motÃ­n en su contra",,,https://commons.wikimedia.org/wiki/File:Cabeza_de_Vaca_Portrait.jpg
-Alonso Cabrera,,conquistador,,,,,,
-AndrÃ©s Hernandez,,conquistador,,,,,,
-Anton Martin del Castillo,,conquistador,alvarista,,,,,
-Anton Martin Escaso,,conquistador,,,,,,
-Antonio Pineda,,conquistador,,,,,,
-Antonio de Ayala,,conquistador,,,,,,
-Baldes,,conquistador,,,,,,
-Bernardo de Armenta,,conquistador,iralista,,,,,
-Bernardo de CastaÃ±eda,,conquistador,,,,,,
-Carios,,indio,enemigo,,,,,
-Carlos de Guevara,,conquistador,,,,,,
-Chaneses,,indio,aliado,,,,,
-Domingo de Irala,,conquistador,iralista,,LÃ­der de la conspiraciÃ³n contra Cabeza de Vaca luego de cederle el cargo de gobernador,,,https://commons.wikimedia.org/wiki/File:Domingo_Mart%C3%ADnez_de_Irala.jpg
-Dubrin,,conquistador,,,,,,
-Estevan de Vallejos,,conquistador,,,,,,
-Felipe de CÃ¡ceres,,conquistador,iralista,,,,,
-Francisco Alvarez Gaitan,,conquistador,iralista,,,,,
-Francisco Gimenes,,conquistador,,,,,,
-Francisco Gonzalez Paniagua,,conquistador,,,,,,
-Francisco Palomino,,conquistador,,,,,,
-Francisco Perez,,conquistador,,,,,,
-Francisco Ruiz,,conquistador,,,,,,
-Francisco de Andrada,,conquistador,,,,,,
-Francisco de Ontiveros,,conquistador,,,,,,
-Francisco de Zamora,,conquistador,,,,,,
-Franco Ruiz Galan,,conquistador,,,,,,
-Garcia Benegas,,conquistador,,,,,,
-Garcia Venegas,,conquistador,,,,,,
-Gonsalo Chave,,conquistador,,,,,,
-Gonzalo Rodriguez,,conquistador,,,,,,
-Gonzalo de Acosta,,conquistador,iralista,,,,,
-Gonzalo de Alvarado,,conquistador,,,,,,
-Gonzalo de Mendoza,,conquistador,iralista,,,,,
-Hernando Barrio Nuevo,,conquistador,,,,,,
-JacomÃ© Luis,,conquistador,,,,,,
-Juan Perez,,conquistador,,,,,,
-Juan Ruiz,,conquistador,,,,,,
-Juan de Ayolas,,conquistador,,,,,,
-Juan de Burgos,,conquistador,,,,,,
-Juan de CÃ¡ceres,,conquistador,,,,,,
-Juan de Ortega,,conquistador,,,,,,
-Juan de Salazar Despinosa,,conquistador,,,,,,
-Juan de Santiago,,conquistador,,,,,,
-Leon Pancaldo,,conquistador,,,,,,
-Lopez de los Rios,,conquistador,,,,,,
-Lorenzo Moquirara,Moquirara,indio,,,,,,
-Martin Canos,,conquistador,,,,,,
-Martin de Orue,,conquistador,,,,,,
-Tarapecoas,,conquistador,,,,,,
-PayaguÃ¡s,,indio,enemigo,,,,,
-Pedro Dorantes,,conquistador,iralista,,,,,
-Pedro de Mendoza,,conquistador,alvarista,,,,,
-Pedro de Mendoza Indio,,indio,iralista,,,,,
-Pedro de Molina,,conquistador,alvarista,,,,,
-Pero Bocanegra,,conquistador,,,,,,
-Pero HernÃ¡ndez,,conquistador,alvarista,,,,,
-Pero Diaz del Valle,,conquistador,,,,,,
-Pero Diaz,,conquistador,,,,,,
-Pero Mendez,,conquistador,,,,,,
-Rodrigo Gomez,,conquistador,,,,,,
-Sancho de Salinas,,conquistador,,,,,,
-SebastiÃ¡n Gaboto,,conquistador,,,,,,
-Tarapecoas,,indio,enemigo,,,,,
-Tristan de Ballartas,,conquistador,,,,,,
+PERSONAJE;VARIANTES;ORIGEN;FACCION;CARGO/PARCIALIDAD;COMMENT;PAGE;CONTEXTO;URL_IMAGEN
+Abacote;;indio;aliado;;;;;
+Agaces;;indio;aliado;;creo que no serían aliados, porque en párr. 9 dice que los mataron con los carios;;;
+Alvar Nuñez Cabeza de Vaca;;conquistador;alvarista;;Enviado como gobernador al Río de la Plata, debió enfrentar un motín en su contra;;;https://commons.wikimedia.org/wiki/File:Cabeza_de_Vaca_Portrait.jpg
+Alonso Cabrera;;conquistador;;;;;;
+Andrés Hernandez;;conquistador;;;;;;
+Anton Martin del Castillo;;conquistador;alvarista;;;;;
+Anton Martin Escaso;;conquistador;;;;;;
+Antonio Pineda;;conquistador;;;;;;
+Antonio de Ayala;;conquistador;;;;;;
+Baldes;;conquistador;;;;;;
+Bernardo de Armenta;;conquistador;iralista;;;;;
+Bernardo de Castañeda;;conquistador;;;;;;
+Carios;;indio;enemigo;;creo que serían aliados, porque en párr. 9 dice que mataron a los agaces junto a españoles;;;
+Carlos de Guevara;;conquistador;;;;;;
+Chaneses;;indio;aliado;;;;;
+Domingo de Irala;;conquistador;iralista;;Líder de la conspiración contra Cabeza de Vaca luego de cederle el cargo de gobernador;;;https://commons.wikimedia.org/wiki/File:Domingo_Mart%C3%ADnez_de_Irala.jpg
+Dubrin;;conquistador;;;;;;
+Estevan de Vallejos;;conquistador;;;;;;
+Felipe de Cáceres;;conquistador;iralista;;;;;
+Francisco Alvarez Gaitan;;conquistador;iralista;;;;;
+Francisco Gimenes;;conquistador;;;;;;
+Francisco Gonzalez Paniagua;;conquistador;;;;;;
+Francisco Palomino;;conquistador;;;;;;
+Francisco Perez;;conquistador;;;;;;
+Francisco Ruiz;;conquistador;;;;;;
+Francisco de Andrada;;conquistador;;;;;;
+Francisco de Ontiveros;;conquistador;;;;;;
+Francisco de Zamora;;conquistador;;;;;;
+Franco Ruiz Galan;;conquistador;;;;;;
+Garcia Benegas;;conquistador;;;;;;
+Garcia Venegas;;conquistador;;;;;;
+Gonsalo Chave;;conquistador;;;;;;
+Gonzalo Rodriguez;;conquistador;;;;;;
+Gonzalo de Acosta;;conquistador;iralista;;;;;
+Gonzalo de Alvarado;;conquistador;;tesorero;;;;
+Gonzalo de Mendoza;;conquistador;iralista;;;;;
+Hernando Barrio Nuevo;;conquistador;;;;;;
+Jacomé Luis;;conquistador;;;;;;
+Juan Perez;;conquistador;;;;;;
+Juan Ruiz;;conquistador;;;;;;
+Juan de Ayolas;;conquistador;;;;;;
+Juan de Burgos;;conquistador;;;;;;
+Juan de Cáceres;;conquistador;;;;;;
+Juan de Ortega;;conquistador;;;;;;
+Juan de Salazar Despinosa;;conquistador;;;;;;
+Juan de Santiago;;conquistador;;;;;;
+Leon Pancaldo;;conquistador;;;;;;
+Lopez de los Rios;;conquistador;;;;;;
+Lorenzo Moquirara;Moquirara;indio;;;;;;
+Martin Canos;;conquistador;;;;;;
+Martin de Orue;;conquistador;;;;;;
+Tarapecoas;;conquistador;;;;;;
+Payaguás;;indio;enemigo;;;;;
+Pedro Dorantes;;conquistador;iralista;;;;;
+Pedro de Mendoza;;conquistador;alvarista;;;;;
+Pedro de Mendoza Indio;;indio;iralista;;;;;
+Pedro de Molina;;conquistador;alvarista;;;;;
+Pero Bocanegra;;conquistador;;;;;;
+Pero Hernández;;conquistador;alvarista;administrativo;;;;
+Pero Diaz del Valle;;conquistador;;;;;;
+Pero Diaz;;conquistador;;;;;;
+Pero Mendez;;conquistador;;;;;;
+Rodrigo Gomez;;conquistador;;;;;;
+Sancho de Salinas;;conquistador;;;;;;
+Sebastián Gaboto;;conquistador;;;;;;
+Tarapecoas;;indio;enemigo;;;;;
+Tristan de Ballartas;;conquistador;;;;;;
