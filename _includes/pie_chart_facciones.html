@@ -1,5 +1,4 @@
 <div id="piechart"><svg style="width:450px;height:450px;"></svg></div>
-
 <script>
 
 data_pieChart=[{"values": [{"value": 3, "label": "Indios aliados"},
@@ -12,6 +11,7 @@ nv.addGraph(function() {
     var chart = nv.models.pieChart();
     chart.margin({top: 30, right: 60, bottom: 20, left: 60});
     var datum = data_pieChart[0].values;
+    chart.color(d3.scale.category20b().range());
 
 chart.tooltipContent(function(key, y, e, graph) {
       var x = String(key);
@@ -45,4 +45,3 @@ chart.showLegend(true);
 
     });
 </script>
-
