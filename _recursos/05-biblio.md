@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bibliografía
-permalink: /biblio/
+permalink: /biblio
 type: extras
 icon: book
 ---
@@ -10,20 +10,20 @@ icon: book
 
 * Apéndice B del "Viaje al Río de la Plata" de Ulrich Schmídel. Edición de Bartolomé Mitre. Buenos Aires, Cabaut y Cía., 1903.
 
-* Edición del facsímil
+* Hernández, Pero. "Relación de las cosas sucedidas en el Río de la Plata". En: Nuñez Cabeza de Vaca, Alvar y Hernández, Pero. Relación de los naufragios y comentarios de Alvar Núñez Cabeza de Vaca.  Ilustrados con varios documentos inéditos. Tomo II. Madrid, Librería General de Victoriano Suárez, 1906, pp. 307-358.
  
 
 ### Artículos
 
 * Adorno, Rolena; Pautz, Patrick Charles, Álvar Núñez Cabeza de Vaca. His account, his life, and the expedition of Pánfilo de Narváez, Lincoln y Londres University of Nebraska Press. Tomo 1, pp. 378-407; Tomo 3, pp. 97-102; 111-118.
 
-* Beuchesne, Kim, “Poder y ‘amor’ en los trópicos: la segunda expedición de Álvar Núñez Cabeza de Vaca a América según los Comentarios de Pero Hernández”, en Visión periférica. Marginalidad y colonialidad en las crónicas de América Latina (siglos XVI-XVIII y XX-XXI), Madrid y Frankfurt, Iberoamericana-Vervuert, 2013.
+* Beuchesne, Kim, "Poder y 'amor' en los trópicos: la segunda expedición de Álvar Núñez Cabeza de Vaca a América según los Comentarios de Pero Hernández", en Visión periférica. Marginalidad y colonialidad en las crónicas de América Latina (siglos XVI-XVIII y XX-XXI), Madrid y Frankfurt, Iberoamericana-Vervuert, 2013.
 
-* El Jaber, Loreley, “Álvar Núñez Cabeza de Vaca. Gustos y olvidos. Legalidad, viaje y escritura”, en Cuadernos del CILHA, vol. 13, núm. 17, 2012, p. 56-73.
+* El Jaber, Loreley, "Álvar Núñez Cabeza de Vaca. Gustos y olvidos. Legalidad, viaje y escritura", en Cuadernos del CILHA, vol. 13, núm. 17, 2012, p. 56-73.
 
-* Gandini, María Juliana, “Experiencias desde los márgenes. Armas, letras y alteridad en los Comentarios de Álvar Núñez Cabeza de Vaca (1555)”, en Anuario del Centro de Estudios Históricos «Prof. Carlos S. A. Segreti», año 1. https://revistas.unc.edu.ar/index.php/anuarioceh/article/view/22702/223212, núm. 12, 2012, pp. 81-96.
+* Gandini, María Juliana, "Experiencias desde los márgenes. Armas, letras y alteridad en los Comentarios de Álvar Núñez Cabeza de Vaca (1555)", en Anuario del Centro de Estudios Históricos «Prof. Carlos S. A. Segreti», año 1. https://revistas.unc.edu.ar/index.php/anuarioceh/article/view/22702/223212, núm. 12, 2012, pp. 81-96.
 
-* Ojeda, Miguel.“El burgalés Juan de Ayolas en la exploración y fundaciones del Nuevo Mundo”, en Boletín de la Institución Fernán González, Burgos, Diputación Provincial,1954.  https://riubu.ubu.es/bitstream/handle/10259.4/1054/0211-8998_n127_p187-199.pdf?sequence=1 
+* Ojeda, Miguel."[El burgalés Juan de Ayolas en la exploración y fundaciones del Nuevo Mundo](https://riubu.ubu.es/bitstream/handle/10259.4/1054/0211-8998_n127_p187-199.pdf?sequence=1)", en Boletín de la Institución Fernán González, Burgos, Diputación Provincial,1954.   
 
 ### Mapas
 
