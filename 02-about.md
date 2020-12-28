@@ -7,27 +7,12 @@ type: extras
 
 ## Acerca de esta edición digital
 
+“En las partes del Poniente,/ Es el Río de la Plata/ Conquista la más ingrata”. El Romance elegíaco de Luis de Miranda (1951) podría sintetizar, de algún modo, el sabor que deja la lectura de la Relación de las cosas sucedidas en el Río de la Plata, de Pero Hernández, escribano de Alvar Núñez Cabeza de Vaca (1555). El texto, condensado y fragmentario, también conocido como Comentarios…, cuando se publica junto a la Relación (o Naufragios) de Alvar Núñez (1545), relata, entre otras cosas, la suerte de varios adelantados y hombres de la corona española en el Río de la Plata -Cabeza de Vaca, Domingo Martínez de Irala, Alonso Cabrera o García Venegas-, y la espantosa violencia ejercida sobre las indias y los indios del Paraguay y el Plata.
+Desde las Humanidades Digitales, otra lectura datificada, como la que propone la siguiente visualización, nos despoja de la narración para montar un escenario algo más humano donde se perciben con claridad los diferentes roles que tensionan el relato. Así, el dato parece suspender, por un momento, el horror de la Conquista. 
 
-### Ejemplo de jerarquía de personajes 
+![character dendrogram]({{ site.baseurl }}/assets/img/pero_hernandez-personajes.png)
 
-Este me gusta cómo va quedando!
-
-![character dendrogram]({{ site.baseurl }}/assets/img/relacion-del-descubrimiento-personajes.png)
-
-
-### Ejemplo de jerarquía de personajes circular
-
-Quedó medio rara, quizás es más linda con más cantidad de items
-
-![character circular dendrogram]({{ site.baseurl }}/assets/img/relacion-del-descubrimiento-personajes-circular.png)
-
-### Ejemplo de gráfico de torta de facciones
-
-Este gráfico es interactivo, muestra cantidades al ubicarse sobre las porciones.
-
-{% include pie_chart_facciones.html %}
-
-Esta edición digital se comparte a través de la licencia [Creative Commons 4.0 (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
+La presente edición digital sigue los apéndices de la edición de Ulrico Schmidl del Viaje al Río de la Plata y fue realizada a partir del texto de Buenos Aires, Cabaut y Cía., 1903 en la edición de la Biblioteca Virtual Miguel de Cervantes. Se comparte a través de la licencia  Creative Commons 4.0 (CC BY 4.0)
 
 Citar esta edición como: 
 
