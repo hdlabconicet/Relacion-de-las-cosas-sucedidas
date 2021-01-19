@@ -1,10 +1,10 @@
-<svg width="1200" height="1100" xmlns="http://www.w3.org/2000/svg" version="1.1">
-<g transform="translate(550, 550)">
+<svg width="1200" height="1200" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<g transform="translate(552, 562)">
 <!-- indios -->
 <path class="link" style="fill: none; stroke: rgb(204, 204, 204); stroke-width: 1px;" d="M76.69755113444307,-153.95286827461024C38.34877556722154,-76.97643413730512 27.29746797623024,81.55273289158791 0,0">
 </path>
 <!-- conquistadores -->
-<path class="link" style="fill: none; stroke: #d49494; stroke-width: 2px;" d="M-76.9609930798716,-38.37975435252228C-38.4804965399358,-19.18987717626114 13.648733988115119,40.77636644579395 0,0">
+<path class="link" style="fill: none; stroke: #841212; stroke-width: 2px;" d="M-76.9609930798716,-38.37975435252228C-38.4804965399358,-19.18987717626114 13.648733988115119,40.77636644579395 0,0">
 </path>
 <!-- arcos parcialidades indigenas -->
 <path class="link" style="fill: none; stroke: rgb(204, 204, 204);; stroke-width: 1px;" d="M30.22092020171489,-256.2239176621917C25.184100168095743,-213.51993138515974 95.87193891805384,-192.44108534326278 76.69755113444307,-153.95286827461024">
@@ -24,9 +24,11 @@
 </path>
 <path class="link" style="fill: none; stroke: #d49494; stroke-width: 2px;" d="M362.76221253888195,-230.87567466906305C217.65732752332917,-138.52540480143782 -230.88297923961485,-115.13926305756686 -76.9609930798716,-38.37975435252228">
 </path>
-<path class="link" style="fill: none; stroke: #d49494; stroke-width: 2px;" d="M79.74186478698093,152.39827755028875C59.806398590235695,114.29870816271658 -115.44148961980743,-57.56963152878343 -76.9609930798716,-38.37975435252228">
+<!-- camino a domingo de irala faccion -->
+<path class="link" style="fill: none; stroke: #841212; stroke-width: 2px;" d="M79.74186478698093,152.39827755028875C59.806398590235695,114.29870816271658 -115.44148961980743,-57.56963152878343 -76.9609930798716,-38.37975435252228">
 </path>
-<path class="link" style="fill: none; stroke: #d49494; stroke-width: 2px;" d="M-119.74810745524509,123.46817711818328C-89.81108059143382,92.60113283863745 -115.44148961980743,-57.56963152878343 -76.9609930798716,-38.37975435252228">
+<!-- camino a alvar nuñez faccion -->
+<path class="link" style="fill: none; stroke: #841212; stroke-width: 2px;" d="M-119.74810745524509,123.46817711818328C-89.81108059143382,92.60113283863745 -115.44148961980743,-57.56963152878343 -76.9609930798716,-38.37975435252228">
 </path>
 <path class="link" style="fill: none; stroke: #d49494; stroke-width: 2px;" d="M-383.4484311930322,194.59522248915178C-230.0690587158193,116.75713349349107 -230.88297923961485,-115.13926305756686 -76.9609930798716,-38.37975435252228">
 </path>
@@ -137,7 +139,8 @@
 </path>
 <path class="link" style="fill: none; stroke: #d49494; stroke-width: 2px;" d="M239.2829327038327,-96.47630857704429C199.4024439198606,-80.39692381420357 99.67733098372616,190.49784693786097 79.74186478698093,152.39827755028875">
 </path>
-<path class="link" style="fill: none; stroke: #d49494; stroke-width: 2px;" d="M248.87720236262678,68.00101575823788C207.3976686355223,56.6675131318649 99.67733098372616,190.49784693786097 79.74186478698093,152.39827755028875">
+<!-- camino a domingo de irala actividad -->
+<path class="link" style="fill: none; stroke: #841212; stroke-width: 2px;" d="M248.87720236262678,68.00101575823788C207.3976686355223,56.6675131318649 99.67733098372616,190.49784693786097 79.74186478698093,152.39827755028875">
 </path>
 <path class="link" style="fill: none; stroke: #d49494; stroke-width: 2px;" d="M148.24879077766266,211.15467324442716C123.54065898138556,175.96222770368928 99.67733098372616,190.49784693786097 79.74186478698093,152.39827755028875">
 </path>
@@ -161,10 +164,10 @@
 </path>
 <path class="link" style="fill: none; stroke: #d49494; stroke-width: 2px;" d="M22.267057520805995,343.2785722257728C16.700293140604497,257.4589291693296 119.61279718047139,228.59741632543316 79.74186478698093,152.39827755028875">
 </path>
-<!-- camino a alvar nuñez --><path class="link" style="fill: none; stroke: #d49494; stroke-width: 2px;" d="M-92.58893396457285,240.81380630541923C-77.15744497047737,200.6781719211827 -149.68513431905637,154.3352213977291 -119.74810745524509,123.46817711818328"></path>
+<!-- camino a alvar nuñez actividad --><path class="link" style="fill: none; stroke: #841212; stroke-width: 2px;" d="M-92.58893396457285,240.81380630541923C-77.15744497047737,200.6781719211827 -149.68513431905637,154.3352213977291 -119.74810745524509,123.46817711818328"></path>
 <path class="link" style="fill: none; stroke: #d49494; stroke-width: 2px;" d="M-203.19240044298326,158.9869441250392C-169.3270003691527,132.48912010419934 -149.68513431905637,154.3352213977291 -119.74810745524509,123.46817711818328">
 </path>
-<!-- camino a pero hernandez--><path class="link" style="fill: none; stroke: #d49494; stroke-width: 2px;" d="M-222.02889587741265,131.4046018808209C-185.02407989784388,109.50383490068408 -149.68513431905637,154.3352213977291 -119.74810745524509,123.46817711818328"></path>
+<!-- camino a pero hernandez actividad --><path class="link" style="fill: none; stroke: #841212; stroke-width: 2px;" d="M-222.02889587741265,131.4046018808209C-185.02407989784388,109.50383490068408 -149.68513431905637,154.3352213977291 -119.74810745524509,123.46817711818328"></path>
 <path class="link" style="fill: none; stroke: #d49494; stroke-width: 2px;" d="M-395.2403866121992,169.36657518719358C-316.19230928975935,135.49326014975486 -343.0073669675499,26.114099754511596 -257.2555252256624,19.585574815883696">
 </path>
 <path class="link" style="fill: none; stroke: #d49494; stroke-width: 2px;" d="M-324.2996531953333,114.7420364878825C-283.7621965459166,100.39928192689719 -300.13144609660617,22.849837285197648 -257.2555252256624,19.585574815883696">
@@ -226,7 +229,8 @@
 </path>
 <path class="link" style="fill: none; stroke: #d49494; stroke-width: 2px;" d="M429.94361997622184,6.963019585075673C343.9548959809775,5.570415668060539 331.8362698168357,90.66802101098384 248.87720236262678,68.00101575823788">
 </path>
-<path class="link" style="fill: none; stroke: #d49494; stroke-width: 2px;" d="M342.3774968813152,33.37138938199891C299.5803097711508,29.199965709249042 290.3567360897312,79.33451838461086 248.87720236262678,68.00101575823788">
+<!-- camino a domingo de irala cargo -->
+<path class="link" style="fill: none; stroke: #841212; stroke-width: 2px;" d="M342.3774968813152,33.37138938199891C299.5803097711508,29.199965709249042 290.3567360897312,79.33451838461086 248.87720236262678,68.00101575823788">
 </path>
 <path class="link" style="fill: none; stroke: #d49494; stroke-width: 2px;" d="M423.1958883045019,76.19212637906575C338.55671064360155,60.953701103252605 331.8362698168357,90.66802101098384 248.87720236262678,68.00101575823788">
 </path>
@@ -266,7 +270,8 @@
 </path>
 <path class="link" style="fill: none; stroke: #d49494; stroke-width: 2px;" d="M2.6329906181668095e-14,430C2.1063924945334474e-14,344 -123.4519119527638,321.0850750738923 -92.58893396457285,240.81380630541923">
 </path>
-<path class="link" style="fill: none; stroke: #d49494; stroke-width: 2px;" d="M-22.267057520805803,343.2785722257728C-19.48367533070508,300.3687506975512 -108.02042295866832,280.9494406896558 -92.58893396457285,240.81380630541923">
+<!-- camino a alvar nuñez cargo -->
+<path class="link" style="fill: none; stroke: #841212; stroke-width: 2px;" d="M-22.267057520805803,343.2785722257728C-19.48367533070508,300.3687506975512 -108.02042295866832,280.9494406896558 -92.58893396457285,240.81380630541923">
 </path>
 <path class="link" style="fill: none; stroke: #d49494; stroke-width: 2px;" d="M-55.550899080024635,426.3966435273628C-44.44071926401971,341.11731482189026 -123.4519119527638,321.0850750738923 -92.58893396457285,240.81380630541923">
 </path>
@@ -306,7 +311,8 @@
 </path>
 <path class="link" style="fill: none; stroke: #d49494; stroke-width: 2px;" d="M-284.0766222522642,194.0012182687119C-248.56704447073116,169.75106598512292 -237.05780051681378,185.48476814587906 -203.19240044298326,158.9869441250392">
 </path>
-<path class="link" style="fill: none; stroke: #d49494; stroke-width: 2px;" d="M-296.0385278365502,175.20613584109455C-259.0337118569814,153.3053688609577 -259.0337118569814,153.3053688609577 -222.02889587741265,131.4046018808209">
+<!-- camino a pero hernandez cargo -->
+<path class="link" style="fill: none; stroke: #841212; stroke-width: 2px;" d="M-296.0385278365502,175.20613584109455C-259.0337118569814,153.3053688609577 -259.0337118569814,153.3053688609577 -222.02889587741265,131.4046018808209">
 </path>
 <path class="link" style="fill: none; stroke: #d49494; stroke-width: 2px;" d="M-405.3745664941666,143.42754560985313C-364.83710984474993,129.0847910488678 -364.83710984474993,129.0847910488678 -324.2996531953333,114.7420364878825">
 </path>
@@ -332,7 +338,8 @@
 </path>
 <path class="link" style="fill: none; stroke: #d49494; stroke-width: 2px;" d="M429.49266849022405,-20.881755509212717C386.5434016412016,-18.793579958291446 386.5434016412016,-18.793579958291446 343.5941347921792,-16.70540440737017">
 </path>
-<path class="link" style="fill: none; stroke: #d49494; stroke-width: 2px;" d="M428.59123850406485,34.778589355403824C385.73211465365836,31.30073041986344 385.1746839914796,37.54281305474877 342.3774968813152,33.37138938199891">
+<!-- camino a domingo de irala -->
+<path class="link" style="fill: none; stroke: #841212; stroke-width: 2px;" d="M428.59123850406485,34.778589355403824C385.73211465365836,31.30073041986344 385.1746839914796,37.54281305474877 342.3774968813152,33.37138938199891">
 </path>
 <path class="link" style="fill: none; stroke: #d49494; stroke-width: 2px;" d="M427.24027549332044,48.63894526397222C384.5162479439884,43.775050737575 385.1746839914796,37.54281305474877 342.3774968813152,33.37138938199891">
 </path>
@@ -358,7 +365,8 @@
 </path>
 <path class="link" style="fill: none; stroke: #d49494; stroke-width: 2px;" d="M188.36050104837355,386.5492486667199C169.52445094353618,347.8943238000479 169.52445094353618,347.8943238000479 150.68840083869884,309.2393989333759">
 </path>
-<path class="link" style="fill: none; stroke: #d49494; stroke-width: 2px;" d="M-27.833821901007255,429.098215282216C-25.05043971090653,386.18839375399443 -25.05043971090653,386.18839375399443 -22.267057520805803,343.2785722257728">
+<!-- camino a alvar nuñez -->
+<path class="link" style="fill: none; stroke: #841212; stroke-width: 2px;" d="M-27.833821901007255,429.098215282216C-25.05043971090653,386.18839375399443 -25.05043971090653,386.18839375399443 -22.267057520805803,343.2785722257728">
 </path>
 <path class="link" style="fill: none; stroke: #d49494; stroke-width: 2px;" d="M-200.7789147054133,380.24706101391024C-180.70102323487197,342.2223549125192 -180.70102323487197,342.2223549125192 -160.62313176433065,304.1976488111282">
 </path>
@@ -372,10 +380,12 @@
 </path>
 <path class="link" style="fill: none; stroke: #d49494; stroke-width: 2px;" d="M-355.0957778153302,242.50152283588986C-319.58620003379724,218.2513705523009 -319.58620003379724,218.2513705523009 -284.0766222522642,194.0012182687119">
 </path>
-<path class="link" style="fill: none; stroke: #d49494; stroke-width: 2px;" d="M-370.04815979568775,219.00766980136817C-333.043343816119,197.10690282123136 -333.043343816119,197.10690282123136 -296.0385278365502,175.20613584109455">
+<!-- camino a pero hernandez -->
+<path class="link" style="fill: none; stroke: #841212; stroke-width: 2px;" d="M-370.04815979568775,219.00766980136817C-333.043343816119,197.10690282123136 -333.043343816119,197.10690282123136 -296.0385278365502,175.20613584109455">
 </path>
+<!-- pluma -->
 <g class="node" transform="rotate(.49)translate(0, -60)">
-	<g id="Page-1" fill="none" fill-rule="evenodd"><g id="003---Quill" fill-rule="nonzero"><path id="Shape" d="m48.3 21.12h-.01c-.41.3-.84.59-1.29.88-.59.38-1.14.73-1.67 1.06-6.56 4.11-8.93 4.9-10.9 6.53h-.01c-.7964208.6769294-1.5172805 1.4380231-2.15 2.27-.74.95-1.61 2.19-2.75 3.87-.46.68-.96 1.43-1.52 2.27-.23.35-.47.68-.71 1-5.95 7.86-15.16 7.89-20.04 5.14l-.58-.73c-2.7559685-5.3781752-3.35335288-11.6059968-1.67-17.41.18-.6.38-1.19.6-1.77v-.01c.44485247-1.1275162.96606108-2.2233907 1.56-3.28v-.01c1.99923563-3.4793543 4.8002017-6.431168 8.17-8.61h.01c1.2368717-.8055123 2.5379282-1.5078822 3.89-2.1 2.5998188-1.1250152 5.3538762-1.85313809 8.17-2.16h.01l.59-.06c.77-.07 1.55-.12 2.32-.14 2.95-.11 5.89.04 8.78.06.79.01 1.58.01 2.35-.01 6.28-.16 12.26-1.44 17.55-7.91 0 0 1.87 12.18-10.7 21.12z" fill="rgb(210, 210, 210)"/><g fill="rgb(174, 182, 191)"><path id="Shape" d="m8.55 28.83c-.16101283.1128533-.35338965.1723152-.55.17-.3345191-.0017306-.64601651-.1706148-.83-.45-.79369656-1.3268645-1.32658267-2.7931498-1.57-4.32v-.01c.44485247-1.1275162.96606108-2.2233907 1.56-3.28.37 3.98 1.17 5.76 1.67 6.51.14739695.2196745.2007437.4892034.14814026.7484632s-.20678091.4866824-.42814026.6315368z"/><path id="Shape" d="m19.23 10.22c-2.658282 2.9690839-4.1597057 6.795407-4.23 10.78 0 .5522847-.4477153 1-1 1s-1-.4477153-1-1c.0224095-3.0448695.8245817-6.0332193 2.33-8.68h.01c1.2368717-.8055123 2.5379282-1.5078822 3.89-2.1z"/><path id="Shape" d="m30.32 7.86c-1.4079938 1.31313354-2.5696365 2.8676351-3.43 4.59-.1659906.3394325-.5121694.5533632-.89.55-.1569877.0028577-.3120337-.0350425-.45-.11-.490313-.2495756-.6869243-.8483464-.44-1.34.6373008-1.2413139 1.4049613-2.41124191 2.29-3.49h.01l.59-.06c.77-.07 1.55-.12 2.32-.14z"/><path id="Shape" d="m41.45 7.91c-.7106896 1.00006831-1.2139165 2.132329-1.48 3.33-.0741827.3589226-.3387703.648506-.6895571.7547-.3507867.1061941-.7315611.0119818-.9923583-.245532s-.359826-.637064-.2580846-.989168c.2339108-.98847959.593505-1.94291656 1.07-2.84.79.01 1.58.01 2.35-.01z"/><path id="Shape" d="m43.55 20.17c-.4550261-.2440793-1.0210631-.101585-1.306288.3288453s-.1958368 1.0072424.206288 1.3311547c.873766.5880931 1.8509741 1.0054423 2.88 1.23.53-.33 1.08-.68 1.67-1.06.45-.29.88-.58 1.29-.88-1.6434126.3486726-3.357883.0050551-4.74-.95z"/><path id="Shape" d="m34.42 29.59c-.7964208.6769294-1.5172805 1.4380231-2.15 2.27-.3.02-.6.03-.91.03-1.659225.0446087-3.3060439-.2977653-4.81-1-.4487927-.2700473-.6131719-.8406385-.3768341-1.3080622s.7933069-.6732882 1.2768341-.4719378c2.12 1.07 4.99.84 6.97.48z"/><path id="Shape" d="m29.52 35.73c-.46.68-.96 1.43-1.52 2.27-.23.35-.47.68-.71 1-1.6171975.615927-3.3296739.944208-5.06.97-1.621874.0111365-3.2241021-.3551849-4.68-1.07-.3215391-.1607695-.5328839-.4808657-.5544229-.8397114-.0215391-.3588458.15-.7019239.45-.9000001s.6828839-.221058 1.0044229-.0602885c4.23 2.11 9.12-.23 11.07-1.37z"/></g><path id="Shape" d="m1 59c-.55228475 0-1-.4477153-1-1 .21983883-4.4865182 1.66104065-8.8277584 4.168-12.555 1.00717121-1.3981008 1.88988122-2.8817764 2.638-4.434l.437-.872c6.043-16.055 13.771-18.356 23.557-21.267 5.8273614-1.5358511 11.4381552-3.7993192 16.7-6.737.3099891-.1970594.703062-.2083077 1.0238128-.0292979.3207509.1790099.5175425.5194594.5125711.886748s-.2109055.702287-.5363839.8725499c-5.3968693 3.0205279-11.153806 5.3469566-17.134 6.924-9.614 2.861-16.562 4.93-22.256 20.064-1.13896915 3.9734048-1.84638733 8.0579904-2.11 12.183-.00932802.2526645-.1140186.4924166-.293.671l-5 5c-.18749273.1875494-.44180519.2929434-.707.293z" fill="rgb(93, 109, 126)"/></g></g>
+	<g id="Page-1" fill="none" fill-rule="evenodd"><g id="003---Quill" fill-rule="nonzero"><path id="Shape" d="m48.3 21.12h-.01c-.41.3-.84.59-1.29.88-.59.38-1.14.73-1.67 1.06-6.56 4.11-8.93 4.9-10.9 6.53h-.01c-.7964208.6769294-1.5172805 1.4380231-2.15 2.27-.74.95-1.61 2.19-2.75 3.87-.46.68-.96 1.43-1.52 2.27-.23.35-.47.68-.71 1-5.95 7.86-15.16 7.89-20.04 5.14l-.58-.73c-2.7559685-5.3781752-3.35335288-11.6059968-1.67-17.41.18-.6.38-1.19.6-1.77v-.01c.44485247-1.1275162.96606108-2.2233907 1.56-3.28v-.01c1.99923563-3.4793543 4.8002017-6.431168 8.17-8.61h.01c1.2368717-.8055123 2.5379282-1.5078822 3.89-2.1 2.5998188-1.1250152 5.3538762-1.85313809 8.17-2.16h.01l.59-.06c.77-.07 1.55-.12 2.32-.14 2.95-.11 5.89.04 8.78.06.79.01 1.58.01 2.35-.01 6.28-.16 12.26-1.44 17.55-7.91 0 0 1.87 12.18-10.7 21.12z" fill="rgb(210, 210, 210)"/><g fill="rgb(174, 182, 191)"><path id="Shape" d="m8.55 28.83c-.16101283.1128533-.35338965.1723152-.55.17-.3345191-.0017306-.64601651-.1706148-.83-.45-.79369656-1.3268645-1.32658267-2.7931498-1.57-4.32v-.01c.44485247-1.1275162.96606108-2.2233907 1.56-3.28.37 3.98 1.17 5.76 1.67 6.51.14739695.2196745.2007437.4892034.14814026.7484632s-.20678091.4866824-.42814026.6315368z"/><path id="Shape" d="m19.23 10.22c-2.658282 2.9690839-4.1597057 6.795407-4.23 10.78 0 .5522847-.4477153 1-1 1s-1-.4477153-1-1c.0224095-3.0448695.8245817-6.0332193 2.33-8.68h.01c1.2368717-.8055123 2.5379282-1.5078822 3.89-2.1z"/><path id="Shape" d="m30.32 7.86c-1.4079938 1.31313354-2.5696365 2.8676351-3.43 4.59-.1659906.3394325-.5121694.5533632-.89.55-.1569877.0028577-.3120337-.0350425-.45-.11-.490313-.2495756-.6869243-.8483464-.44-1.34.6373008-1.2413139 1.4049613-2.41124191 2.29-3.49h.01l.59-.06c.77-.07 1.55-.12 2.32-.14z"/><path id="Shape" d="m41.45 7.91c-.7106896 1.00006831-1.2139165 2.132329-1.48 3.33-.0741827.3589226-.3387703.648506-.6895571.7547-.3507867.1061941-.7315611.0119818-.9923583-.245532s-.359826-.637064-.2580846-.989168c.2339108-.98847959.593505-1.94291656 1.07-2.84.79.01 1.58.01 2.35-.01z"/><path id="Shape" d="m43.55 20.17c-.4550261-.2440793-1.0210631-.101585-1.306288.3288453s-.1958368 1.0072424.206288 1.3311547c.873766.5880931 1.8509741 1.0054423 2.88 1.23.53-.33 1.08-.68 1.67-1.06.45-.29.88-.58 1.29-.88-1.6434126.3486726-3.357883.0050551-4.74-.95z"/><path id="Shape" d="m34.42 29.59c-.7964208.6769294-1.5172805 1.4380231-2.15 2.27-.3.02-.6.03-.91.03-1.659225.0446087-3.3060439-.2977653-4.81-1-.4487927-.2700473-.6131719-.8406385-.3768341-1.3080622s.7933069-.6732882 1.2768341-.4719378c2.12 1.07 4.99.84 6.97.48z"/><path id="Shape" d="m29.52 35.73c-.46.68-.96 1.43-1.52 2.27-.23.35-.47.68-.71 1-1.6171975.615927-3.3296739.944208-5.06.97-1.621874.0111365-3.2241021-.3551849-4.68-1.07-.3215391-.1607695-.5328839-.4808657-.5544229-.8397114-.0215391-.3588458.15-.7019239.45-.9000001s.6828839-.221058 1.0044229-.0602885c4.23 2.11 9.12-.23 11.07-1.37z"/></g><!-- tallo --><path id="Shape" d="m1 59c-.55228475 0-1-.4477153-1-1 .21983883-4.4865182 1.66104065-8.8277584 4.168-12.555 1.00717121-1.3981008 1.88988122-2.8817764 2.638-4.434l.437-.872c6.043-16.055 13.771-18.356 23.557-21.267 5.8273614-1.5358511 11.4381552-3.7993192 16.7-6.737.3099891-.1970594.703062-.2083077 1.0238128-.0292979.3207509.1790099.5175425.5194594.5125711.886748s-.2109055.702287-.5363839.8725499c-5.3968693 3.0205279-11.153806 5.3469566-17.134 6.924-9.614 2.861-16.562 4.93-22.256 20.064-1.13896915 3.9734048-1.84638733 8.0579904-2.11 12.183-.00932802.2526645-.1140186.4924166-.293.671l-5 5c-.18749273.1875494-.44180519.2929434-.707.293z" fill="#841212"/></g></g>
 </g>
 <g class="node" transform="rotate(-63.5180412371134)translate(172)">
 <circle r="4.5" style="fill: rgb(238, 238, 238); stroke: rgb(153, 153, 153); stroke-width: 1px;">
@@ -383,9 +393,9 @@
 <text dy=".31em" text-anchor="start" transform="translate(8)" style="font-size: 18px; font-family: Athelas, Palatino, Georgia, serif;">indio</text>
 </g>
 <g class="node" transform="rotate(206.50501947866314)translate(85.99999999999999)">
-<circle r="4.5" style="fill: rgb(238, 238, 238); stroke: rgb(153, 153, 153); stroke-width: 1px;">
+<circle r="4.5" style="fill: rgb(238, 238, 238); stroke: #841212; stroke-width: 1px;">
 </circle>
-<text dy=".31em" text-anchor="end" transform="rotate(180)translate(-8)" style="font-size: 18px; font-family: Athelas, Palatino, Georgia, serif;">conquistador</text>
+<text dy=".31em" text-anchor="end" transform="rotate(180)translate(-10)" style="font-size: 18px; font-family: Athelas, Palatino, Georgia, serif;">conquistador</text>
 </g>
 <g class="node" transform="rotate(-83.27319587628865)translate(258)">
 <circle r="4.5" style="fill: rgb(238, 238, 238); stroke: rgb(153, 153, 153); stroke-width: 1px;">
@@ -430,12 +440,12 @@
 <g class="node" transform="rotate(62.37934412464429)translate(172)">
 <circle r="4.5" style="fill: rgb(238, 238, 238); stroke: #841212; stroke-width: 1px;">
 </circle>
-<text dy=".31em" text-anchor="start" transform="translate(8)" style="font-size: 16px; font-family: Athelas, Palatino, Georgia, serif;">iralista</text>
+<text dy=".31em" text-anchor="start" transform="translate(9)" style="font-size: 16px; font-family: Athelas, Palatino, Georgia, serif;">iralista</text>
 </g>
 <g class="node" transform="rotate(134.1237113402062)translate(172)">
 <circle r="4.5" style="fill: rgb(238, 238, 238); stroke: #841212; stroke-width: 1px;">
 </circle>
-<text dy=".31em" text-anchor="end" transform="rotate(180)translate(-8)" style="font-size: 16px; font-family: Athelas, Palatino, Georgia, serif;">alvarista</text>
+<text dy=".31em" text-anchor="end" transform="rotate(180)translate(-12)" style="font-size: 16px; font-family: Athelas, Palatino, Georgia, serif; text-shadow: 1px 1px #FFF;">alvarista</text>
 </g>
 <g class="node" transform="rotate(153.09278350515464)translate(430)">
 <circle r="4.5" style="fill: rgb(238, 238, 238); stroke: rgb(153, 153, 153); stroke-width: 1px;">
@@ -545,7 +555,7 @@
 <g class="node" transform="rotate(234.74226804123714)translate(344)">
 <circle r="4.5" style="fill: rgb(238, 238, 238); stroke: rgb(153, 153, 153); stroke-width: 1px;">
 </circle>
-<text dy=".31em" text-anchor="end" transform="rotate(180)translate(-8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif;">lengua</text>
+<text dy=".31em" text-anchor="end" transform="rotate(180)translate(-8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif; text-shadow: -0.5px -0.5px #FFF;">lengua</text>
 </g>
 <g class="node" transform="rotate(238.45360824742266)translate(430)">
 <circle r="4.5" style="fill: rgb(238, 238, 238); stroke: rgb(153, 153, 153); stroke-width: 1px;">
@@ -575,7 +585,7 @@
 <g class="node" transform="rotate(249.58762886597935)translate(344)">
 <circle r="4.5" style="fill: rgb(238, 238, 238); stroke: rgb(153, 153, 153); stroke-width: 1px;">
 </circle>
-<text dy=".31em" text-anchor="end" transform="rotate(180)translate(-8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif;">fiador</text>
+<text dy=".31em" text-anchor="end" transform="rotate(180)translate(-8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif; text-shadow: -0.5px -0.5px #FFF;">fiador</text>
 </g>
 <g class="node" transform="rotate(254.22680412371136)translate(344)">
 <circle r="4.5" style="fill: rgb(238, 238, 238); stroke: rgb(153, 153, 153); stroke-width: 1px;">
@@ -675,22 +685,22 @@
 <g class="node" transform="rotate(-47.31958762886598)translate(344)">
 <circle r="4.5" style="fill: rgb(238, 238, 238); stroke: rgb(153, 153, 153); stroke-width: 1px;">
 </circle>
-<text dy=".31em" text-anchor="start" transform="translate(8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif;">regidor</text>
+<text dy=".31em" text-anchor="start" transform="translate(8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif; text-shadow: -0.5px -0.5px #FFF;">regidor</text>
 </g>
 <g class="node" transform="rotate(-43.60824742268042)translate(344)">
 <circle r="4.5" style="fill: rgb(238, 238, 238); stroke: rgb(153, 153, 153); stroke-width: 1px;">
 </circle>
-<text dy=".31em" text-anchor="start" transform="translate(8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif;">escribano</text>
+<text dy=".31em" text-anchor="start" transform="translate(8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif; text-shadow: -0.5px -0.5px #FFF;">escribano</text>
 </g>
 <g class="node" transform="rotate(-39.896907216494846)translate(344)">
 <circle r="4.5" style="fill: rgb(238, 238, 238); stroke: rgb(153, 153, 153); stroke-width: 1px;">
 </circle>
-<text dy=".31em" text-anchor="start" transform="translate(8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif;">tesorero</text>
+<text dy=".31em" text-anchor="start" transform="translate(8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif; text-shadow: -0.5px -0.5px #FFF;">tesorero</text>
 </g>
 <g class="node" transform="rotate(-36.18556701030928)translate(344)">
 <circle r="4.5" style="fill: rgb(238, 238, 238); stroke: rgb(153, 153, 153); stroke-width: 1px;">
 </circle>
-<text dy=".31em" text-anchor="start" transform="translate(8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif;">personero</text>
+<text dy=".31em" text-anchor="start" transform="translate(8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif; text-shadow: -0.5px -0.5px #FFF;">personero</text>
 </g>
 <g class="node" transform="rotate(-21.95876288659794)translate(258)">
 <circle r="4.5" style="fill: rgb(238, 238, 238); stroke: rgb(153, 153, 153); stroke-width: 1px;">
@@ -700,7 +710,7 @@
 <g class="node" transform="rotate(15.281989084293514)translate(258)">
 <circle r="4.5" style="fill: rgb(238, 238, 238); stroke: #841212; stroke-width: 1px;">
 </circle>
-<text dy=".31em" text-anchor="start" transform="translate(8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif;">militar</text>
+<text dy=".35em" text-anchor="start" transform="translate(8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif;">militar</text>
 </g>
 <g class="node" transform="rotate(54.92783505154637)translate(258)">
 <circle r="4.5" style="fill: rgb(238, 238, 238); stroke: rgb(153, 153, 153); stroke-width: 1px;">
@@ -755,22 +765,22 @@
 <g class="node" transform="rotate(86.28865979381442)translate(344)">
 <circle r="4.5" style="fill: rgb(238, 238, 238); stroke: rgb(153, 153, 153); stroke-width: 1px;">
 </circle>
-<text dy=".31em" text-anchor="start" transform="translate(8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif;">alguacil</text>
+<text dy=".31em" text-anchor="start" transform="translate(8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif; text-shadow: -0.5px -0.5px #FFF;">alguacil</text>
 </g>
 <g class="node" transform="rotate(111.03092783505156)translate(258)">
 <circle r="4.5" style="fill: rgb(238, 238, 238); stroke: #841212; stroke-width: 1px;">
 </circle>
-<text dy=".31em" text-anchor="end" transform="rotate(180)translate(-8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif;">militar</text>
+<text dy=".19em" text-anchor="end" transform="rotate(180)translate(-9)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif;">militar</text>
 </g>
 <g class="node" transform="rotate(141.95876288659795)translate(258)">
 <circle r="4.5" style="fill: rgb(238, 238, 238); stroke: rgb(153, 153, 153); stroke-width: 1px;">
 </circle>
 <text dy=".31em" text-anchor="end" transform="rotate(180)translate(-8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif;">religioso</text>
 </g>
-<g class="node" transform="rotate(149.38144329896906)translate(258)">
+<g class="node" transform="rotate(149.38144329896906)translate(248)">
 <circle r="4.5" style="fill: rgb(238, 238, 238); stroke: rgb(153, 153, 153); stroke-width: 1px;">
 </circle>
-<text dy=".21em" text-anchor="end" transform="rotate(187)translate(-8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif;font-style: italic;">administrativo</text>
+<text dy=".37em" text-anchor="end" transform="rotate(180)translate(-8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif;font-style: italic; text-shadow: -1px -1px #FFF;">administrativo</text>
 </g>
 <g class="node" transform="rotate(156.8041237113402)translate(430)">
 <circle r="4.5" style="fill: rgb(238, 238, 238); stroke: rgb(153, 153, 153); stroke-width: 1px;">
@@ -780,7 +790,7 @@
 <g class="node" transform="rotate(160.51546391752575)translate(344)">
 <circle r="4.5" style="fill: rgb(238, 238, 238); stroke: rgb(153, 153, 153); stroke-width: 1px;">
 </circle>
-<text dy=".31em" text-anchor="end" transform="rotate(180)translate(-8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif;">alguacil</text>
+<text dy=".31em" text-anchor="end" transform="rotate(180)translate(-8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif; text-shadow: -0.5px -0.5px #FFF;">alguacil</text>
 </g>
 <g class="node" transform="rotate(164.22680412371136)translate(430)">
 <circle r="4.5" style="fill: rgb(238, 238, 238); stroke: rgb(153, 153, 153); stroke-width: 1px;">
@@ -795,7 +805,7 @@
 <g class="node" transform="rotate(169.79381443298968)translate(344)">
 <circle r="4.5" style="fill: rgb(238, 238, 238); stroke: rgb(153, 153, 153); stroke-width: 1px;">
 </circle>
-<text dy=".31em" text-anchor="end" transform="rotate(180)translate(-8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif;">gobernador</text>
+<text dy=".31em" text-anchor="end" transform="rotate(180)translate(-8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif; text-shadow: -0.5px -0.5px #FFF;">gobernador</text>
 </g>
 <g class="node" transform="rotate(173.50515463917526)translate(430)">
 <circle r="4.5" style="fill: rgb(238, 238, 238); stroke: rgb(153, 153, 153); stroke-width: 1px;">
@@ -815,7 +825,7 @@
 <g class="node" transform="rotate(180.92783505154637)translate(344)">
 <circle r="4.5" style="fill: rgb(238, 238, 238); stroke: rgb(153, 153, 153); stroke-width: 1px;">
 </circle>
-<text dy=".31em" text-anchor="end" transform="rotate(180)translate(-8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif;">alcalde</text>
+<text dy=".31em" text-anchor="end" transform="rotate(180)translate(-8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif; text-shadow: -0.5px -0.5px #FFF;">alcalde</text>
 </g>
 <g class="node" transform="rotate(184.63917525773195)translate(430)">
 <circle r="4.5" style="fill: rgb(238, 238, 238); stroke: rgb(153, 153, 153); stroke-width: 1px;">
@@ -825,7 +835,7 @@
 <g class="node" transform="rotate(188.35051546391753)translate(344)">
 <circle r="4.5" style="fill: rgb(238, 238, 238); stroke: rgb(153, 153, 153); stroke-width: 1px;">
 </circle>
-<text dy=".31em" text-anchor="end" transform="rotate(180)translate(-8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif;">capitán</text>
+<text dy=".31em" text-anchor="end" transform="rotate(180)translate(-8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif; text-shadow: -0.5px -0.5px #FFF;">capitán</text>
 </g>
 <g class="node" transform="rotate(192.0618556701031)translate(430)">
 <circle r="4.5" style="fill: rgb(238, 238, 238); stroke: rgb(153, 153, 153); stroke-width: 1px;">
@@ -890,7 +900,7 @@
 <g class="node" transform="rotate(-26.907216494845365)translate(344)">
 <circle r="4.5" style="fill: rgb(238, 238, 238); stroke: rgb(153, 153, 153); stroke-width: 1px;">
 </circle>
-<text dy=".31em" text-anchor="start" transform="translate(8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif;">franciscano</text>
+<text dy=".31em" text-anchor="start" transform="translate(8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif; text-shadow: -0.5px -0.5px #FFF;">franciscano</text>
 </g>
 <g class="node" transform="rotate(-21.340206185567013)translate(430)">
 <circle r="4.5" style="fill: rgb(238, 238, 238); stroke: rgb(153, 153, 153); stroke-width: 1px;">
@@ -900,7 +910,7 @@
 <g class="node" transform="rotate(-17.628865979381445)translate(344)">
 <circle r="4.5" style="fill: rgb(238, 238, 238); stroke: rgb(153, 153, 153); stroke-width: 1px;">
 </circle>
-<text dy=".31em" text-anchor="start" transform="translate(8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif;">gerónimo</text>
+<text dy=".31em" text-anchor="start" transform="translate(8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif; text-shadow: -0.5px -0.5px #FFF;">gerónimo</text>
 </g>
 <g class="node" transform="rotate(-13.917525773195877)translate(430)">
 <circle r="4.5" style="fill: rgb(238, 238, 238); stroke: rgb(153, 153, 153); stroke-width: 1px;">
@@ -910,12 +920,12 @@
 <g class="node" transform="rotate(-8.350515463917532)translate(344)">
 <circle r="4.5" style="fill: rgb(238, 238, 238); stroke: rgb(153, 153, 153); stroke-width: 1px;">
 </circle>
-<text dy=".31em" text-anchor="start" transform="translate(8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif;">alcalde</text>
+<text dy=".31em" text-anchor="start" transform="translate(8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif; text-shadow: -0.5px -0.5px #FFF;">alcalde</text>
 </g>
 <g class="node" transform="rotate(-2.7835051546391725)translate(344)">
 <circle r="4.5" style="fill: rgb(238, 238, 238); stroke: rgb(153, 153, 153); stroke-width: 1px;">
 </circle>
-<text dy=".31em" text-anchor="start" transform="translate(8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif;">alguacil</text>
+<text dy=".31em" text-anchor="start" transform="translate(8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif; text-shadow: -0.5px -0.5px #FFF;">alguacil</text>
 </g>
 <g class="node" transform="rotate(0.9278350515463956)translate(430)">
 <circle r="4.5" style="fill: rgb(238, 238, 238); stroke: rgb(153, 153, 153); stroke-width: 1px;">
@@ -925,7 +935,7 @@
 <g class="node" transform="rotate(5.567010309278345)translate(344)">
 <circle r="4.5" style="fill: rgb(238, 238, 238); stroke: #841212; stroke-width: 1px;">
 </circle>
-<text dy=".31em" text-anchor="start" transform="translate(8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif;">gobernador</text>
+<text dy=".31em" text-anchor="start" transform="translate(8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif; text-shadow: -1px -0.5px #FFF;">gobernador</text>
 </g>
 <g class="node" transform="rotate(10.206185567010309)translate(430)">
 <circle r="4.5" style="fill: rgb(238, 238, 238); stroke: rgb(153, 153, 153); stroke-width: 1px;">
@@ -960,13 +970,13 @@
 <g class="node" transform="rotate(23.19587628865979)translate(344)">
 <circle r="4.5" style="fill: rgb(238, 238, 238); stroke: rgb(153, 153, 153); stroke-width: 1px;">
 </circle>
-<text dy=".04em" text-anchor="start" transform="translate(8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif;">teniente de</text>
-<text dy=".71em" text-anchor="start" transform="translate(8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif;">gobernador</text>
+<text dy="-0.1em" text-anchor="start" transform="translate(8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif; text-shadow: -0.5px -0.5px #FFF;">teniente de</text>
+<text dy=".71em" text-anchor="start" transform="translate(8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif; text-shadow: -0.5px -0.5px #FFF;">gobernador</text>
 </g>
 <g class="node" transform="rotate(26.907216494845372)translate(344)">
 <circle r="4.5" style="fill: rgb(238, 238, 238); stroke: rgb(153, 153, 153); stroke-width: 1px;">
 </circle>
-<text dy=".31em" text-anchor="start" transform="translate(8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif;">capitán</text>
+<text dy=".31em" text-anchor="start" transform="translate(8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif; text-shadow: -0.5px -0.5px #FFF;">capitán</text>
 </g>
 <g class="node" transform="rotate(30.618556701030926)translate(430)">
 <circle r="4.5" style="fill: rgb(238, 238, 238); stroke: rgb(153, 153, 153); stroke-width: 1px;">
@@ -981,7 +991,7 @@
 <g class="node" transform="rotate(36.18556701030927)translate(344)">
 <circle r="4.5" style="fill: rgb(238, 238, 238); stroke: rgb(153, 153, 153); stroke-width: 1px;">
 </circle>
-<text dy=".31em" text-anchor="start" transform="translate(8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif;">regidor</text>
+<text dy=".31em" text-anchor="start" transform="translate(8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif; text-shadow: -0.5px -0.5px #FFF;">regidor</text>
 </g>
 <g class="node" transform="rotate(39.89690721649484)translate(430)">
 <circle r="4.5" style="fill: rgb(238, 238, 238); stroke: rgb(153, 153, 153); stroke-width: 1px;">
@@ -991,27 +1001,27 @@
 <g class="node" transform="rotate(44.536082474226816)translate(344)">
 <circle r="4.5" style="fill: rgb(238, 238, 238); stroke: rgb(153, 153, 153); stroke-width: 1px;">
 </circle>
-<text dy=".31em" text-anchor="start" transform="translate(8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif;">tesorero</text>
+<text dy=".31em" text-anchor="start" transform="translate(8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif; text-shadow: -0.5px -0.5px #FFF;">tesorero</text>
 </g>
 <g class="node" transform="rotate(50.10309278350516)translate(344)">
 <circle r="4.5" style="fill: rgb(238, 238, 238); stroke: rgb(153, 153, 153); stroke-width: 1px;">
 </circle>
-<text dy=".31em" text-anchor="start" transform="translate(8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif;">escribano</text>
+<text dy=".31em" text-anchor="start" transform="translate(8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif; text-shadow: -0.5px -0.5px #FFF;">escribano</text>
 </g>
 <g class="node" transform="rotate(55.670103092783506)translate(344)">
 <circle r="4.5" style="fill: rgb(238, 238, 238); stroke: rgb(153, 153, 153); stroke-width: 1px;">
 </circle>
-<text dy=".31em" text-anchor="start" transform="translate(8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif;">contador</text>
+<text dy=".31em" text-anchor="start" transform="translate(8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif; text-shadow: -0.5px -0.5px #FFF;">contador</text>
 </g>
 <g class="node" transform="rotate(60.309278350515456)translate(344)">
 <circle r="4.5" style="fill: rgb(238, 238, 238); stroke: rgb(153, 153, 153); stroke-width: 1px;">
 </circle>
-<text dy=".31em" text-anchor="start" transform="translate(8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif;">factor</text>
+<text dy=".31em" text-anchor="start" transform="translate(8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif; text-shadow: -0.5px -0.5px #FFF;">factor</text>
 </g>
 <g class="node" transform="rotate(64.02061855670101)translate(344)">
 <circle r="4.5" style="fill: rgb(238, 238, 238); stroke: rgb(153, 153, 153); stroke-width: 1px;">
 </circle>
-<text dy=".31em" text-anchor="start" transform="translate(8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif;">alcalde</text>
+<text dy=".31em" text-anchor="start" transform="translate(8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif; text-shadow: -0.5px -0.5px #FFF;">alcalde</text>
 </g>
 <g class="node" transform="rotate(86.28865979381442)translate(430)">
 <circle r="4.5" style="fill: rgb(238, 238, 238); stroke: rgb(153, 153, 153); stroke-width: 1px;">
@@ -1026,7 +1036,7 @@
 <g class="node" transform="rotate(93.71134020618555)translate(344)">
 <circle r="4.5" style="fill: rgb(238, 238, 238); stroke: #841212; stroke-width: 1px;">
 </circle>
-<text dy=".31em" text-anchor="end" transform="rotate(180)translate(-8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif;">gobernador</text>
+<text dy=".35em" text-anchor="end" transform="rotate(180)translate(-8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif; text-shadow: -1px -1px #FFF;">gobernador</text>
 </g>
 <g class="node" transform="rotate(97.42268041237114)translate(430)">
 <circle r="4.5" style="fill: rgb(238, 238, 238); stroke: rgb(153, 153, 153); stroke-width: 1px;">
@@ -1081,12 +1091,12 @@
 <g class="node" transform="rotate(117.83505154639172)translate(344)">
 <circle r="4.5" style="fill: rgb(238, 238, 238); stroke: rgb(153, 153, 153); stroke-width: 1px;">
 </circle>
-<text dy=".31em" text-anchor="end" transform="rotate(180)translate(-8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif;">dramaturgo</text>
+<text dy=".31em" text-anchor="end" transform="rotate(180)translate(-8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif; text-shadow: -0.5px -0.5px #FFF;">dramaturgo</text>
 </g>
 <g class="node" transform="rotate(121.54639175257734)translate(344)">
 <circle r="4.5" style="fill: rgb(238, 238, 238); stroke: rgb(153, 153, 153); stroke-width: 1px;">
 </circle>
-<text dy=".31em" text-anchor="end" transform="rotate(180)translate(-8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif;">capitán</text>
+<text dy=".31em" text-anchor="end" transform="rotate(180)translate(-8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif; text-shadow: -0.5px -0.5px #FFF;">capitán</text>
 </g>
 <g class="node" transform="rotate(125.25773195876289)translate(430)">
 <circle r="4.5" style="fill: rgb(238, 238, 238); stroke: rgb(153, 153, 153); stroke-width: 1px;">
@@ -1101,12 +1111,12 @@
 <g class="node" transform="rotate(130.82474226804126)translate(344)">
 <circle r="4.5" style="fill: rgb(238, 238, 238); stroke: rgb(153, 153, 153); stroke-width: 1px;">
 </circle>
-<text dy=".31em" text-anchor="end" transform="rotate(180)translate(-8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif;">regidor</text>
+<text dy=".31em" text-anchor="end" transform="rotate(180)translate(-8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif; text-shadow: -0.5px -0.5px #FFF;">regidor</text>
 </g>
 <g class="node" transform="rotate(134.53608247422682)translate(344)">
 <circle r="4.5" style="fill: rgb(238, 238, 238); stroke: rgb(153, 153, 153); stroke-width: 1px;">
 </circle>
-<text dy=".31em" text-anchor="end" transform="rotate(180)translate(-8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif;">adelantado</text>
+<text dy=".31em" text-anchor="end" transform="rotate(180)translate(-8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif; text-shadow: -0.5px -0.5px #FFF;">adelantado</text>
 </g>
 <g class="node" transform="rotate(138.24742268041237)translate(430)">
 <circle r="4.5" style="fill: rgb(238, 238, 238); stroke: rgb(153, 153, 153); stroke-width: 1px;">
@@ -1116,17 +1126,17 @@
 <g class="node" transform="rotate(141.95876288659795)translate(344)">
 <circle r="4.5" style="fill: rgb(238, 238, 238); stroke: rgb(153, 153, 153); stroke-width: 1px;">
 </circle>
-<text dy=".31em" text-anchor="end" transform="rotate(180)translate(-8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif;">mercedario</text>
+<text dy=".31em" text-anchor="end" transform="rotate(180)translate(-8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif; text-shadow: -0.5px -0.5px #FFF;">mercedario</text>
 </g>
 <g class="node" transform="rotate(145.6701030927835)translate(344)">
 <circle r="4.5" style="fill: rgb(238, 238, 238); stroke: rgb(153, 153, 153); stroke-width: 1px;">
 </circle>
-<text dy=".31em" text-anchor="end" transform="rotate(180)translate(-8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif;">gerónimo</text>
+<text dy=".31em" text-anchor="end" transform="rotate(180)translate(-8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif; text-shadow: -0.5px -0.5px #FFF;">gerónimo</text>
 </g>
 <g class="node" transform="rotate(149.38144329896906)translate(344)">
 <circle r="4.5" style="fill: rgb(238, 238, 238); stroke: rgb(153, 153, 153); stroke-width: 1px;">
 </circle>
-<text dy=".31em" text-anchor="end" transform="rotate(180)translate(-8)" style="font-size: 15px; font-family: Athelas, Palatino, Georgia, serif; font-style: italic;">escribano</text>
+<text dy=".37em" text-anchor="end" transform="rotate(180)translate(-8)" style="font-size: 15px; font-family: Athelas, Palatino, Georgia, serif; font-style: italic; text-shadow: -1px -1px #FFF;">escribano</text>
 </g>
 <g class="node" transform="rotate(160.51546391752575)translate(430)">
 <circle r="4.5" style="fill: rgb(238, 238, 238); stroke: rgb(153, 153, 153); stroke-width: 1px;">
@@ -1189,9 +1199,9 @@
 <text dy=".31em" text-anchor="start" transform="translate(8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif;">Bartolomé de la Amarilla</text>
 </g>
 <g class="node" transform="rotate(4.639175257731964)translate(430)">
-<circle r="4.5" style="fill: rgb(238, 238, 238); stroke: #841212; stroke-width: 1px;">
+<circle r="4.5" style="fill: #f1dddd; stroke: #841212; stroke-width: 1px;">
 </circle>
-<text dy=".31em" text-anchor="start" transform="translate(8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif;">Domingo de Irala</text>
+<text dy=".31em" text-anchor="start" transform="translate(8)" style="font-size: 16px; font-family: Athelas, Palatino, Georgia, serif;">Domingo de Irala</text>
 </g>
 <g class="node" transform="rotate(6.4948453608247405)translate(430)">
 <circle r="4.5" style="fill: rgb(238, 238, 238); stroke: rgb(153, 153, 153); stroke-width: 1px;">
@@ -1254,10 +1264,10 @@
 <text dy=".31em" text-anchor="start" transform="translate(8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif;">Pero Diaz del Valle</text>
 </g>
 <g class="node" transform="rotate(93.71134020618555)translate(430)">
-<circle r="4.5" style="fill: rgb(238, 238, 238); stroke: #841212; stroke-width: 1px;">
+<circle r="4.5" style="fill: #f1dddd; stroke: #841212; stroke-width: 1px;">
 </circle>
-<text dy=".03em" text-anchor="end" transform="rotate(180)translate(-8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif;">Alvar Nuñez</text>
-<text dy=".81em" text-anchor="end" transform="rotate(180)translate(-8)" style="font-size: 13px; font-family: Athelas, Palatino, Georgia, serif;">Cabeza de Vaca</text>
+<text dy="-.2em" text-anchor="end" transform="rotate(180)translate(-8)" style="font-size: 16px; font-family: Athelas, Palatino, Georgia, serif;">Alvar Nuñez</text>
+<text dy=".71em" text-anchor="end" transform="rotate(180)translate(-8)" style="font-size: 16px; font-family: Athelas, Palatino, Georgia, serif;">Cabeza de Vaca</text>
 </g>
 <g class="node" transform="rotate(117.83505154639172)translate(430)">
 <circle r="4.5" style="fill: rgb(238, 238, 238); stroke: rgb(153, 153, 153); stroke-width: 1px;">
@@ -1295,4 +1305,7 @@
 <text dy=".31em" text-anchor="end" transform="rotate(180)translate(-8)" style="font-size: 16px; font-family: Athelas, Palatino, Georgia, serif; font-style: italic;">Pero Hernández</text>
 </g>
 </g>
+<text x="1050" y="1070" style="font-size: 8px;">HDCAICYTLAB
+	<tspan x="1060" y="1080">CC by 4.0</tspan>
+</text>
 </svg>
