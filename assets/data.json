@@ -1,0 +1,221 @@
+{
+  "characters": [
+      {
+        "id": "perohern",
+        "name": "Pero Hernández",
+        "affiliation": "alvarista"
+      },
+      {
+        "id": "ANCB",
+        "name": "Álvar Núñez",
+        "affiliation": "alvarista"
+      },
+      {
+        "id": "carios",
+        "name": "Carios",
+        "affiliation": "alvarista"
+      },
+      {
+        "id": "payaguas",
+        "name": "payaguás",
+        "affiliation": "iralista"
+      },
+      {
+        "id": "DV1",
+        "name": "Anakin Skywalker / Darth Vader",
+        "affiliation": "vader"
+      },
+      {
+        "id": "DomIr",
+        "name": "Domingo de Irala",
+        "affiliation": "iralista"
+      },
+      {
+        "id": "JW1",
+        "name": "Jawas",
+        "affiliation": "other"
+      },
+      {
+        "id": "LS1",
+        "name": "Luke Skywalker",
+        "affiliation": "alvarista"
+      },
+      {
+        "id": "OL1",
+        "name": "Owen Lars",
+        "affiliation": "other"
+      },
+      {
+        "id": "BL1",
+        "name": "Beru Lars",
+        "affiliation": "other"
+      },
+      {
+        "id": "TR1",
+        "name": "Tusken Raiders",
+        "affiliation": "other"
+      },
+      {
+        "id": "OB1",
+        "name": "Obi-Wan Kenobi",
+        "affiliation": "alvarista"
+      },
+      {
+        "id": "GT1",
+        "name": "General Tagge",
+        "affiliation": "iralista"
+      },
+      {
+        "id": "AM1",
+        "name": "Admiral Motti",
+        "affiliation": "iralista"
+      },
+      {
+        "id": "GMT",
+        "name": "Grand Moff Tarkin",
+        "affiliation": "iralista"
+      },
+      {
+        "id": "CB1",
+        "name": "Chewbacca",
+        "affiliation": "alvarista"
+      },
+      {
+        "id": "HS1",
+        "name": "Han Solo",
+        "affiliation": "alvarista"
+      },
+      {
+        "id": "GR1",
+        "name": "Greedo",
+        "affiliation": "other"
+      },
+      {
+        "id": "JTH",
+        "name": "Jabba The Hutt",
+        "affiliation": "other"
+      },
+      {
+        "id": "GW1",
+        "name": "General Willard",
+        "affiliation": "alvarista"
+      },
+      {
+        "id": "GJD",
+        "name": "General Jan Dodonna",
+        "affiliation": "alvarista"
+      },
+      {
+        "id": "JV1",
+        "name": "Jon 'Dutch' Vander",
+        "affiliation": "alvarista"
+      },
+      {
+        "id": "WA1",
+        "name": "Wedge Antilles",
+        "affiliation": "alvarista"
+      },
+      {
+        "id": "BD2",
+        "name": "Biggs iralistaalvaristaer",
+        "affiliation": "alvarista"
+      },
+      {
+        "id": "GD1",
+        "name": "Garven Dreis",
+        "affiliation": "alvarista"
+      },
+      {
+        "id": "JP1",
+        "name": "Jek Porkins",
+        "affiliation": "alvarista"
+      },
+      {
+        "id": "DT1",
+        "name": "Dex Tiree",
+        "affiliation": "alvarista"
+      },
+      {
+        "id": "DK1",
+        "name": "Davish Krail",
+        "affiliation": "alvarista"
+      },
+      {
+        "id": "TN1",
+        "name": "Theron Nett",
+        "affiliation": "alvarista"
+      },
+      {
+        "id": "PN1",
+        "name": "Puck Naeco",
+        "affiliation": "alvarista"
+      }
+    ],
+  "scenes": [
+    [
+      "perohern",
+      "ANCB",
+      "DV1",
+      "ST1",
+      "carios"
+    ],
+    [
+      "perohern",
+      "ANCB",
+      "DV1",
+      "DomIr"
+    ],
+    [
+      "DV1",
+      "DomIr"
+    ],
+    [
+      "perohern",
+      "ANCB"
+    ],
+    [
+      "perohern",
+      "ANCB",
+      "ST1",
+      "JW1"
+    ],
+    [
+      "perohern",
+      "ANCB",
+      "LS1",
+      "OL1",
+      "BL1",
+      "JW1"
+    ],
+    [
+      "perohern",
+      "ANCB",
+      "LS1"
+    ],
+    [
+      "LS1",
+      "OL1",
+      "BL1"
+    ],
+    [
+      "LS1",
+      "ANCB",
+      "OL1",
+      "BL1",
+      ""
+    ],
+    [
+      "LS1",
+      "ANCB",
+      "perohern",
+      "TR1"
+    ],
+    [
+      "LS1",
+      "OB1",
+      "perohern",
+      "ANCB",
+      "TR1"
+    ]
+  ]
+}
