@@ -6,7 +6,7 @@
 //Create the lunr index for the search
 
 var index = elasticlunr(function () {
-  this.addField('section')
+  this.addField('chapter')
   this.addField('subtitle')
   this.addField('layout')
   this.addField('content')
@@ -16,7 +16,7 @@ var index = elasticlunr(function () {
 //Add to this index the proper metadata from the Jekyll content
 
 
-{% assign count = 0 %}{% for text in site.pages %}
+{% assign count = 0 %}{% for text in site.pero_pages %}
 index.addDoc({
   subtitle: {{text.subtitle | jsonify}},
   layout: {{text.layout | jsonify}},
@@ -28,7 +28,7 @@ console.log( jQuery.type(index) );
 // Builds reference data (maybe not necessary for us, to check)
 
 
-var store = [{% for text in site.pages %}{
+var store = [{% for text in site.pero_pages %}{
   "subtitle": {{text.subtitle | jsonify}},
   "layout": {{ text.layout | jsonify }},
   "link": {{text.url | jsonify}},
