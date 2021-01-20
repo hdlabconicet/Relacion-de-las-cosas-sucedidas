@@ -1,4 +1,5 @@
 {
+
   "characters": [
       {
         "id": "perohern",
@@ -22,7 +23,7 @@
       },
       {
         "id": "DV1",
-        "name": "Anakin Skywalker / Darth Vader",
+        "name": "Pedro de Mendoza",
         "affiliation": "vader"
       },
       {
@@ -32,37 +33,37 @@
       },
       {
         "id": "JW1",
-        "name": "Jawas",
+        "name": "Juan de Ayolas",
         "affiliation": "other"
       },
       {
         "id": "LS1",
-        "name": "Luke Skywalker",
+        "name": "Lorenzo Moquerara",
         "affiliation": "alvarista"
       },
       {
         "id": "OL1",
-        "name": "Owen Lars",
+        "name": "Abacotes",
         "affiliation": "other"
       },
       {
         "id": "BL1",
-        "name": "Beru Lars",
+        "name": "Guajarapos",
         "affiliation": "other"
       },
       {
         "id": "TR1",
-        "name": "Tusken Raiders",
+        "name": "Gonzalo de Mendoza",
         "affiliation": "other"
       },
       {
         "id": "OB1",
-        "name": "Obi-Wan Kenobi",
+        "name": "Juan de Salazar Espinosa",
         "affiliation": "alvarista"
       },
       {
         "id": "GT1",
-        "name": "General Tagge",
+        "name": "Juan de Ortega",
         "affiliation": "iralista"
       },
       {
