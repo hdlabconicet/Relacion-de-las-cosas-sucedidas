@@ -115,3 +115,73 @@ a:hover {
 .caret {
 	color: #841212;
 }
+
+/* Narrative chart */
+text {
+	font-family: "ProximaNova",Helvetica,Arial,sans-serif;
+	font-size: 12px;
+}
+
+rect {
+	fill: none;
+	stroke: #787878;
+}
+rect.alvarista {
+	stroke: #3ca3a8;
+}
+rect.iralista {
+	stroke: #df8429;
+}
+rect.originario {
+	stroke: #a83c6d;
+}
+circle {
+	fill: #787878;	
+}
+circle.iralista {
+	fill: #df8429;
+}
+circle.alvarista {
+	fill: #3ca3a8;
+}
+circle.originario {
+	fill: #a83c6d;
+}
+path {
+	fill: none;
+	stroke-width: 2;
+	stroke: #787878;
+}
+
+path.originario {
+	stroke: #a83c6d;
+}
+path.alvarista {
+	stroke: #3ca3a8;
+}
+
+path.iralista {
+	stroke: #df8429;
+}
+
+.intro text:first-child {
+	fill: #fff;
+    stroke: #f9f9f9;
+    stroke-width: 3;
+}
+
+.intro text+text {
+    fill: #787878;
+}
+
+.intro text+text.iralista {
+    fill: #df8429;
+}
+
+.intro text+text.alvarista {
+    fill: #3ca3a8;
+}
+
+.intro text+text.originario {
+    fill: #a83c6d;
+}
