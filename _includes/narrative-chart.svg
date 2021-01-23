@@ -1,0 +1,1323 @@
+<svg id="narrative-chart" width="2940" height="1170">
+<!-- escenas y apariciones de personajes -->
+<g class="scene" transform="translate(586.5,0.5)">
+<rect width="42" height="140" y="0" x="0" rx="10"></rect>
+<circle cx="21" cy="10" r="2" class="appearance alvarista"></circle>
+<circle cx="21" cy="20" r="2" class="appearance other"></circle>
+<circle cx="21" cy="30" r="2" class="appearance iralista"></circle>
+<circle cx="21" cy="40" r="2" class="appearance iralista"></circle>
+<circle cx="21" cy="50" r="2" class="appearance alvarista"></circle>
+<circle cx="21" cy="60" r="2" class="appearance other"></circle>
+<circle cx="21" cy="70" r="2" class="appearance iralista"></circle>
+<circle cx="21" cy="80" r="2" class="appearance iralista"></circle>
+<circle cx="21" cy="90" r="2" class="appearance iralista"></circle>
+<circle cx="21" cy="100" r="2" class="appearance originario"></circle>
+<circle cx="21" cy="110" r="2" class="appearance iralista"></circle>
+<circle cx="21" cy="120" r="2" class="appearance originario"></circle>
+<circle cx="21" cy="130" r="2" class="appearance other"></circle>
+</g>
+<g class="scene" transform="translate(923.5,50.5)">
+<rect width="42" height="110" y="0" x="0" rx="10"></rect>
+<circle cx="21" cy="10" r="2" class="appearance iralista"></circle>
+<circle cx="21" cy="20" r="2" class="appearance iralista"></circle>
+<circle cx="21" cy="30" r="2" class="appearance iralista"></circle>
+<circle cx="21" cy="40" r="2" class="appearance originario"></circle>
+<circle cx="21" cy="50" r="2" class="appearance iralista"></circle>
+<circle cx="21" cy="60" r="2" class="appearance originario"></circle>
+<circle cx="21" cy="70" r="2" class="appearance iralista"></circle>
+<circle cx="21" cy="80" r="2" class="appearance other"></circle>
+<circle cx="21" cy="90" r="2" class="appearance originario"></circle>
+<circle cx="21" cy="100" r="2" class="appearance originario"></circle>
+</g>
+<g class="scene" transform="translate(1259.5,58.5)">
+<rect width="42" height="500" y="0" x="0" rx="10"></rect>
+<circle cx="21" cy="10" r="2" class="appearance alvarista"></circle>
+<circle cx="21" cy="20" r="2" class="appearance iralista"></circle>
+<circle cx="21" cy="30" r="2" class="appearance alvarista"></circle>
+<circle cx="21" cy="40" r="2" class="appearance iralista"></circle>
+<circle cx="21" cy="50" r="2" class="appearance originario"></circle>
+<circle cx="21" cy="60" r="2" class="appearance iralista"></circle>
+<circle cx="21" cy="70" r="2" class="appearance originario"></circle>
+<circle cx="21" cy="80" r="2" class="appearance other"></circle>
+<circle cx="21" cy="90" r="2" class="appearance iralista"></circle>
+<circle cx="21" cy="100" r="2" class="appearance originario"></circle>
+<circle cx="21" cy="110" r="2" class="appearance iralista"></circle>
+<circle cx="21" cy="120" r="2" class="appearance iralista"></circle>
+<circle cx="21" cy="130" r="2" class="appearance iralista"></circle>
+<circle cx="21" cy="140" r="2" class="appearance other"></circle>
+<circle cx="21" cy="150" r="2" class="appearance originario"></circle>
+<circle cx="21" cy="160" r="2" class="appearance originario"></circle>
+<circle cx="21" cy="170" r="2" class="appearance iralista"></circle>
+<circle cx="21" cy="180" r="2" class="appearance other"></circle>
+<circle cx="21" cy="190" r="2" class="appearance other"></circle>
+<circle cx="21" cy="200" r="2" class="appearance other"></circle>
+<circle cx="21" cy="210" r="2" class="appearance originario"></circle>
+<circle cx="21" cy="220" r="2" class="appearance originario"></circle>
+<circle cx="21" cy="230" r="2" class="appearance iralista"></circle>
+<circle cx="21" cy="240" r="2" class="appearance iralista"></circle>
+<circle cx="21" cy="250" r="2" class="appearance other"></circle>
+<circle cx="21" cy="260" r="2" class="appearance originario"></circle>
+<circle cx="21" cy="270" r="2" class="appearance originario"></circle>
+<circle cx="21" cy="280" r="2" class="appearance other"></circle>
+<circle cx="21" cy="290" r="2" class="appearance other"></circle>
+<circle cx="21" cy="300" r="2" class="appearance other"></circle>
+<circle cx="21" cy="310" r="2" class="appearance originario"></circle>
+<circle cx="21" cy="320" r="2" class="appearance other"></circle>
+<circle cx="21" cy="330" r="2" class="appearance other"></circle>
+<circle cx="21" cy="340" r="2" class="appearance iralista"></circle>
+<circle cx="21" cy="350" r="2" class="appearance other"></circle>
+<circle cx="21" cy="360" r="2" class="appearance other"></circle>
+<circle cx="21" cy="370" r="2" class="appearance other"></circle>
+<circle cx="21" cy="380" r="2" class="appearance other"></circle>
+<circle cx="21" cy="390" r="2" class="appearance other"></circle>
+<circle cx="21" cy="400" r="2" class="appearance other"></circle>
+<circle cx="21" cy="410" r="2" class="appearance originario"></circle>
+<circle cx="21" cy="420" r="2" class="appearance other"></circle>
+<circle cx="21" cy="430" r="2" class="appearance iralista"></circle>
+<circle cx="21" cy="440" r="2" class="appearance other"></circle>
+<circle cx="21" cy="450" r="2" class="appearance other"></circle>
+<circle cx="21" cy="460" r="2" class="appearance other"></circle>
+<circle cx="21" cy="470" r="2" class="appearance other"></circle>
+<circle cx="21" cy="480" r="2" class="appearance other"></circle>
+<circle cx="21" cy="490" r="2" class="appearance alvarista"></circle>
+</g>
+<g class="scene" transform="translate(1595.5,338.5)">
+<rect width="42" height="410" y="0" x="0" rx="10"></rect>
+<circle cx="21" cy="10" r="2" class="appearance iralista"></circle>
+<circle cx="21" cy="20" r="2" class="appearance iralista"></circle>
+<circle cx="21" cy="30" r="2" class="appearance iralista"></circle>
+<circle cx="21" cy="40" r="2" class="appearance iralista"></circle>
+<circle cx="21" cy="50" r="2" class="appearance iralista"></circle>
+<circle cx="21" cy="60" r="2" class="appearance originario"></circle>
+<circle cx="21" cy="70" r="2" class="appearance iralista"></circle>
+<circle cx="21" cy="80" r="2" class="appearance iralista"></circle>
+<circle cx="21" cy="90" r="2" class="appearance originario"></circle>
+<circle cx="21" cy="100" r="2" class="appearance originario"></circle>
+<circle cx="21" cy="110" r="2" class="appearance iralista"></circle>
+<circle cx="21" cy="120" r="2" class="appearance alvarista"></circle>
+<circle cx="21" cy="130" r="2" class="appearance other"></circle>
+<circle cx="21" cy="140" r="2" class="appearance other"></circle>
+<circle cx="21" cy="150" r="2" class="appearance originario"></circle>
+<circle cx="21" cy="160" r="2" class="appearance iralista"></circle>
+<circle cx="21" cy="170" r="2" class="appearance iralista"></circle>
+<circle cx="21" cy="180" r="2" class="appearance alvarista"></circle>
+<circle cx="21" cy="190" r="2" class="appearance other"></circle>
+<circle cx="21" cy="200" r="2" class="appearance originario"></circle>
+<circle cx="21" cy="210" r="2" class="appearance other"></circle>
+<circle cx="21" cy="220" r="2" class="appearance inca"></circle>
+<circle cx="21" cy="230" r="2" class="appearance inca"></circle>
+<circle cx="21" cy="240" r="2" class="appearance originario"></circle>
+<circle cx="21" cy="250" r="2" class="appearance iralista"></circle>
+<circle cx="21" cy="260" r="2" class="appearance iralista"></circle>
+<circle cx="21" cy="270" r="2" class="appearance iralista"></circle>
+<circle cx="21" cy="280" r="2" class="appearance iralista"></circle>
+<circle cx="21" cy="290" r="2" class="appearance iralista"></circle>
+<circle cx="21" cy="300" r="2" class="appearance iralista"></circle>
+<circle cx="21" cy="310" r="2" class="appearance iralista"></circle>
+<circle cx="21" cy="320" r="2" class="appearance other"></circle>
+<circle cx="21" cy="330" r="2" class="appearance iralista"></circle>
+<circle cx="21" cy="340" r="2" class="appearance iralista"></circle>
+<circle cx="21" cy="350" r="2" class="appearance other"></circle>
+<circle cx="21" cy="360" r="2" class="appearance other"></circle>
+<circle cx="21" cy="370" r="2" class="appearance iralista"></circle>
+<circle cx="21" cy="380" r="2" class="appearance other"></circle>
+<circle cx="21" cy="390" r="2" class="appearance iralista"></circle>
+<circle cx="21" cy="400" r="2" class="appearance iralista"></circle>
+</g>
+<g class="scene" transform="translate(1931.5,596.5)">
+<rect width="42" height="430" y="0" x="0" rx="10"></rect>
+<circle cx="21" cy="10" r="2" class="appearance iralista"></circle>
+<circle cx="21" cy="20" r="2" class="appearance iralista"></circle>
+<circle cx="21" cy="30" r="2" class="appearance iralista"></circle>
+<circle cx="21" cy="40" r="2" class="appearance iralista"></circle>
+<circle cx="21" cy="50" r="2" class="appearance iralista"></circle>
+<circle cx="21" cy="60" r="2" class="appearance iralista"></circle>
+<circle cx="21" cy="70" r="2" class="appearance iralista"></circle>
+<circle cx="21" cy="80" r="2" class="appearance iralista"></circle>
+<circle cx="21" cy="90" r="2" class="appearance iralista"></circle>
+<circle cx="21" cy="100" r="2" class="appearance iralista"></circle>
+<circle cx="21" cy="110" r="2" class="appearance iralista"></circle>
+<circle cx="21" cy="120" r="2" class="appearance other"></circle>
+<circle cx="21" cy="130" r="2" class="appearance iralista"></circle>
+<circle cx="21" cy="140" r="2" class="appearance iralista"></circle>
+<circle cx="21" cy="150" r="2" class="appearance iralista"></circle>
+<circle cx="21" cy="160" r="2" class="appearance iralista"></circle>
+<circle cx="21" cy="170" r="2" class="appearance iralista"></circle>
+<circle cx="21" cy="180" r="2" class="appearance iralista"></circle>
+<circle cx="21" cy="190" r="2" class="appearance other"></circle>
+<circle cx="21" cy="200" r="2" class="appearance alvarista"></circle>
+<circle cx="21" cy="210" r="2" class="appearance iralista"></circle>
+<circle cx="21" cy="220" r="2" class="appearance alvarista"></circle>
+<circle cx="21" cy="230" r="2" class="appearance alvarista"></circle>
+<circle cx="21" cy="240" r="2" class="appearance alvarista"></circle>
+<circle cx="21" cy="250" r="2" class="appearance alvarista"></circle>
+<circle cx="21" cy="260" r="2" class="appearance other"></circle>
+<circle cx="21" cy="270" r="2" class="appearance other"></circle>
+<circle cx="21" cy="280" r="2" class="appearance alvarista"></circle>
+<circle cx="21" cy="290" r="2" class="appearance alvarista"></circle>
+<circle cx="21" cy="300" r="2" class="appearance alvarista"></circle>
+<circle cx="21" cy="310" r="2" class="appearance alvarista"></circle>
+<circle cx="21" cy="320" r="2" class="appearance alvarista"></circle>
+<circle cx="21" cy="330" r="2" class="appearance alvarista"></circle>
+<circle cx="21" cy="340" r="2" class="appearance alvarista"></circle>
+<circle cx="21" cy="350" r="2" class="appearance alvarista"></circle>
+<circle cx="21" cy="360" r="2" class="appearance alvarista"></circle>
+<circle cx="21" cy="370" r="2" class="appearance alvarista"></circle>
+<circle cx="21" cy="380" r="2" class="appearance alvarista"></circle>
+<circle cx="21" cy="390" r="2" class="appearance alvarista"></circle>
+<circle cx="21" cy="400" r="2" class="appearance originario"></circle>
+<circle cx="21" cy="410" r="2" class="appearance iralista"></circle>
+<circle cx="21" cy="420" r="2" class="appearance iralista"></circle>
+</g>
+<g class="scene" transform="translate(2268.5,836.5)">
+<rect width="42" height="270" y="0" x="0" rx="10"></rect>
+<circle cx="21" cy="10" r="2" class="appearance iralista"></circle>
+<circle cx="21" cy="20" r="2" class="appearance iralista"></circle>
+<circle cx="21" cy="30" r="2" class="appearance iralista"></circle>
+<circle cx="21" cy="40" r="2" class="appearance iralista"></circle>
+<circle cx="21" cy="50" r="2" class="appearance originario"></circle>
+<circle cx="21" cy="60" r="2" class="appearance iralista"></circle>
+<circle cx="21" cy="70" r="2" class="appearance other"></circle>
+<circle cx="21" cy="80" r="2" class="appearance other"></circle>
+<circle cx="21" cy="90" r="2" class="appearance iralista"></circle>
+<circle cx="21" cy="100" r="2" class="appearance other"></circle>
+<circle cx="21" cy="110" r="2" class="appearance other"></circle>
+<circle cx="21" cy="120" r="2" class="appearance iralista"></circle>
+<circle cx="21" cy="130" r="2" class="appearance other"></circle>
+<circle cx="21" cy="140" r="2" class="appearance iralista"></circle>
+<circle cx="21" cy="150" r="2" class="appearance iralista"></circle>
+<circle cx="21" cy="160" r="2" class="appearance other"></circle>
+<circle cx="21" cy="170" r="2" class="appearance other"></circle>
+<circle cx="21" cy="180" r="2" class="appearance iralista"></circle>
+<circle cx="21" cy="190" r="2" class="appearance other"></circle>
+<circle cx="21" cy="200" r="2" class="appearance other"></circle>
+<circle cx="21" cy="210" r="2" class="appearance other"></circle>
+<circle cx="21" cy="220" r="2" class="appearance other"></circle>
+<circle cx="21" cy="230" r="2" class="appearance other"></circle>
+<circle cx="21" cy="240" r="2" class="appearance other"></circle>
+<circle cx="21" cy="250" r="2" class="appearance other"></circle>
+<circle cx="21" cy="260" r="2" class="appearance other"></circle>
+</g>
+<g class="scene" transform="translate(2604.5,895.5)">
+<rect width="42" height="40" y="0" x="0" rx="10"></rect>
+<circle cx="21" cy="10" r="2" class="appearance iralista"></circle>
+<circle cx="21" cy="20" r="2" class="appearance other"></circle>
+<circle cx="21" cy="30" r="2" class="appearance alvarista"></circle>
+</g>
+<!-- links -->
+<path class="link alvarista" d="M250,10C428.625,10 428.625,10 607.25,10"></path>
+<path class="link alvarista" d="M607.25,10C943.5,10 943.5,68.46938775510205 1279.75,68.46938775510205"></path>
+<path class="link other" d="M250,25C428.625,25 428.625,20 607.25,20"></path>
+<path class="link iralista" d="M250,40C428.625,40 428.625,30 607.25,30"></path>
+<path class="link iralista" d="M607.25,30C775.375,30 775.375,60 943.5,60"></path>
+<path class="link iralista" d="M943.5,60C1111.625,60 1111.625,78.46938775510205 1279.75,78.46938775510205"></path>
+<path class="link iralista" d="M1279.75,78.46938775510205C1447.875,78.46938775510205 1447.875,347.5 1616,347.5"></path>
+<path class="link iralista" d="M250,55C428.625,55 428.625,40 607.25,40"></path>
+<path class="link iralista" d="M607.25,40C775.375,40 775.375,70 943.5,70"></path>
+<path class="link iralista" d="M943.5,70C1279.75,70 1279.75,357.5 1616,357.5"></path>
+<path class="link iralista" d="M1616,357.5C1784.125,357.5 1784.125,606.1904761904761 1952.25,606.1904761904761"></path>
+<path class="link alvarista" d="M250,70C428.625,70 428.625,50 607.25,50"></path>
+<path class="link alvarista" d="M607.25,50C943.5,50 943.5,88.46938775510205 1279.75,88.46938775510205"></path>
+<path class="link other" d="M250,85C428.625,85 428.625,60 607.25,60"></path>
+<path class="link iralista" d="M250,100C428.625,100 428.625,70 607.25,70"></path>
+<path class="link iralista" d="M250,115C428.625,115 428.625,80 607.25,80"></path>
+<path class="link iralista" d="M607.25,80C775.375,80 775.375,80 943.5,80"></path>
+<path class="link iralista" d="M943.5,80C1111.625,80 1111.625,98.46938775510205 1279.75,98.46938775510205"></path>
+<path class="link iralista" d="M1279.75,98.46938775510205C1447.875,98.46938775510205 1447.875,367.5 1616,367.5"></path>
+<path class="link iralista" d="M1616,367.5C1784.125,367.5 1784.125,616.1904761904761 1952.25,616.1904761904761"></path>
+<path class="link iralista" d="M1952.25,616.1904761904761C2120.375,616.1904761904761 2120.375,845.7692307692307 2288.5,845.7692307692307"></path>
+<path class="link iralista" d="M250,130C428.625,130 428.625,90 607.25,90"></path>
+<path class="link iralista" d="M607.25,90C1111.625,90 1111.625,377.5 1616,377.5"></path>
+<path class="link iralista" d="M1616,377.5C1952.25,377.5 1952.25,855.7692307692307 2288.5,855.7692307692307"></path>
+<path class="link originario" d="M250,145C428.625,145 428.625,100 607.25,100"></path>
+<path class="link originario" d="M607.25,100C775.375,100 775.375,90 943.5,90"></path>
+<path class="link originario" d="M943.5,90C1111.625,90 1111.625,108.46938775510205 1279.75,108.46938775510205"></path>
+<path class="link iralista" d="M250,160C428.625,160 428.625,110 607.25,110"></path>
+<path class="link iralista" d="M607.25,110C775.375,110 775.375,100 943.5,100"></path>
+<path class="link iralista" d="M943.5,100C1111.625,100 1111.625,118.46938775510205 1279.75,118.46938775510205"></path>
+<path class="link iralista" d="M1279.75,118.46938775510205C1447.875,118.46938775510205 1447.875,387.5 1616,387.5"></path>
+<path class="link iralista" d="M1616,387.5C1784.125,387.5 1784.125,626.1904761904761 1952.25,626.1904761904761"></path>
+<path class="link iralista" d="M1952.25,626.1904761904761C2120.375,626.1904761904761 2120.375,865.7692307692307 2288.5,865.7692307692307"></path>
+<path class="link iralista" d="M2288.5,865.7692307692307C2456.625,865.7692307692307 2456.625,905 2624.75,905"></path>
+<path class="link originario" d="M250,175C428.625,175 428.625,120 607.25,120"></path>
+<path class="link originario" d="M607.25,120C775.375,120 775.375,110 943.5,110"></path>
+<path class="link originario" d="M943.5,110C1111.625,110 1111.625,128.46938775510205 1279.75,128.46938775510205"></path>
+<path class="link originario" d="M1279.75,128.46938775510205C1447.875,128.46938775510205 1447.875,397.5 1616,397.5"></path>
+<path class="link other" d="M250,190C428.625,190 428.625,130 607.25,130"></path>
+<path class="link other" d="M607.25,130C943.5,130 943.5,138.46938775510205 1279.75,138.46938775510205"></path>
+<path class="link iralista" d="M754.375,120C848.9375,120 848.9375,120 943.5,120"></path>
+<path class="link iralista" d="M943.5,120C1111.625,120 1111.625,148.46938775510205 1279.75,148.46938775510205"></path>
+<path class="link iralista" d="M1279.75,148.46938775510205C1447.875,148.46938775510205 1447.875,407.5 1616,407.5"></path>
+<path class="link other" d="M754.375,135C848.9375,135 848.9375,130 943.5,130"></path>
+<path class="link originario" d="M754.375,150C848.9375,150 848.9375,140 943.5,140"></path>
+<path class="link originario" d="M943.5,140C1111.625,140 1111.625,158.46938775510205 1279.75,158.46938775510205"></path>
+<path class="link originario" d="M754.375,165C848.9375,165 848.9375,150 943.5,150"></path>
+<path class="link iralista" d="M1090.625,168.46938775510205C1185.1875,168.46938775510205 1185.1875,168.46938775510205 1279.75,168.46938775510205"></path>
+<path class="link iralista" d="M1090.625,183.46938775510205C1185.1875,183.46938775510205 1185.1875,178.46938775510205 1279.75,178.46938775510205"></path>
+<path class="link iralista" d="M1279.75,178.46938775510205C1447.875,178.46938775510205 1447.875,417.5 1616,417.5"></path>
+<path class="link iralista" d="M1090.625,198.46938775510205C1185.1875,198.46938775510205 1185.1875,188.46938775510205 1279.75,188.46938775510205"></path>
+<path class="link iralista" d="M1279.75,188.46938775510205C1616,188.46938775510205 1616,636.1904761904761 1952.25,636.1904761904761"></path>
+<path class="link iralista" d="M1952.25,636.1904761904761C2120.375,636.1904761904761 2120.375,875.7692307692307 2288.5,875.7692307692307"></path>
+<path class="link other" d="M1090.625,213.46938775510205C1185.1875,213.46938775510205 1185.1875,198.46938775510205 1279.75,198.46938775510205"></path>
+<path class="link originario" d="M1090.625,228.46938775510205C1185.1875,228.46938775510205 1185.1875,208.46938775510205 1279.75,208.46938775510205"></path>
+<path class="link originario" d="M1279.75,208.46938775510205C1447.875,208.46938775510205 1447.875,427.5 1616,427.5"></path>
+<path class="link originario" d="M1616,427.5C1952.25,427.5 1952.25,885.7692307692307 2288.5,885.7692307692307"></path>
+<path class="link originario" d="M1090.625,243.46938775510205C1185.1875,243.46938775510205 1185.1875,218.46938775510205 1279.75,218.46938775510205"></path>
+<path class="link iralista" d="M1090.625,258.46938775510205C1185.1875,258.46938775510205 1185.1875,228.46938775510205 1279.75,228.46938775510205"></path>
+<path class="link other" d="M1090.625,273.46938775510205C1185.1875,273.46938775510205 1185.1875,238.46938775510205 1279.75,238.46938775510205"></path>
+<path class="link other" d="M1090.625,288.46938775510205C1185.1875,288.46938775510205 1185.1875,248.46938775510205 1279.75,248.46938775510205"></path>
+<path class="link other" d="M1090.625,303.46938775510205C1185.1875,303.46938775510205 1185.1875,258.46938775510205 1279.75,258.46938775510205"></path>
+<path class="link originario" d="M1090.625,318.46938775510205C1185.1875,318.46938775510205 1185.1875,268.46938775510205 1279.75,268.46938775510205"></path>
+<path class="link originario" d="M1279.75,268.46938775510205C1447.875,268.46938775510205 1447.875,437.5 1616,437.5"></path>
+<path class="link originario" d="M1090.625,333.46938775510205C1185.1875,333.46938775510205 1185.1875,278.46938775510205 1279.75,278.46938775510205"></path>
+<path class="link iralista" d="M1090.625,348.46938775510205C1185.1875,348.46938775510205 1185.1875,288.46938775510205 1279.75,288.46938775510205"></path>
+<path class="link iralista" d="M1279.75,288.46938775510205C1447.875,288.46938775510205 1447.875,447.5 1616,447.5"></path>
+<path class="link iralista" d="M1616,447.5C1784.125,447.5 1784.125,646.1904761904761 1952.25,646.1904761904761"></path>
+<path class="link iralista" d="M1090.625,363.46938775510205C1185.1875,363.46938775510205 1185.1875,298.46938775510205 1279.75,298.46938775510205"></path>
+<path class="link iralista" d="M1279.75,298.46938775510205C1616,298.46938775510205 1616,656.1904761904761 1952.25,656.1904761904761"></path>
+<path class="link other" d="M1090.625,378.46938775510205C1185.1875,378.46938775510205 1185.1875,308.46938775510205 1279.75,308.46938775510205"></path>
+<path class="link originario" d="M1090.625,393.46938775510205C1185.1875,393.46938775510205 1185.1875,318.46938775510205 1279.75,318.46938775510205"></path>
+<path class="link originario" d="M1090.625,408.46938775510205C1185.1875,408.46938775510205 1185.1875,328.46938775510205 1279.75,328.46938775510205"></path>
+<path class="link other" d="M1090.625,423.46938775510205C1185.1875,423.46938775510205 1185.1875,338.46938775510205 1279.75,338.46938775510205"></path>
+<path class="link other" d="M1090.625,438.46938775510205C1185.1875,438.46938775510205 1185.1875,348.46938775510205 1279.75,348.46938775510205"></path>
+<path class="link other" d="M1090.625,453.46938775510205C1185.1875,453.46938775510205 1185.1875,358.46938775510205 1279.75,358.46938775510205"></path>
+<path class="link originario" d="M1090.625,468.46938775510205C1185.1875,468.46938775510205 1185.1875,368.46938775510205 1279.75,368.46938775510205"></path>
+<path class="link other" d="M1090.625,483.46938775510205C1185.1875,483.46938775510205 1185.1875,378.46938775510205 1279.75,378.46938775510205"></path>
+<path class="link other" d="M1090.625,498.46938775510205C1185.1875,498.46938775510205 1185.1875,388.46938775510205 1279.75,388.46938775510205"></path>
+<path class="link iralista" d="M1090.625,513.469387755102C1185.1875,513.469387755102 1185.1875,398.46938775510205 1279.75,398.46938775510205"></path>
+<path class="link other" d="M1090.625,528.469387755102C1185.1875,528.469387755102 1185.1875,408.46938775510205 1279.75,408.46938775510205"></path>
+<path class="link other" d="M1090.625,543.469387755102C1185.1875,543.469387755102 1185.1875,418.46938775510205 1279.75,418.46938775510205"></path>
+<path class="link other" d="M1090.625,558.469387755102C1185.1875,558.469387755102 1185.1875,428.46938775510205 1279.75,428.46938775510205"></path>
+<path class="link other" d="M1090.625,573.469387755102C1185.1875,573.469387755102 1185.1875,438.46938775510205 1279.75,438.46938775510205"></path>
+<path class="link other" d="M1090.625,588.469387755102C1185.1875,588.469387755102 1185.1875,448.46938775510205 1279.75,448.46938775510205"></path>
+<path class="link other" d="M1090.625,603.469387755102C1185.1875,603.469387755102 1185.1875,458.46938775510205 1279.75,458.46938775510205"></path>
+<path class="link originario" d="M1090.625,618.469387755102C1185.1875,618.469387755102 1185.1875,468.46938775510205 1279.75,468.46938775510205"></path>
+<path class="link other" d="M1090.625,633.469387755102C1185.1875,633.469387755102 1185.1875,478.46938775510205 1279.75,478.46938775510205"></path>
+<path class="link iralista" d="M1090.625,648.469387755102C1185.1875,648.469387755102 1185.1875,488.46938775510205 1279.75,488.46938775510205"></path>
+<path class="link iralista" d="M1279.75,488.46938775510205C1616,488.46938775510205 1616,666.1904761904761 1952.25,666.1904761904761"></path>
+<path class="link other" d="M1090.625,663.469387755102C1185.1875,663.469387755102 1185.1875,498.46938775510205 1279.75,498.46938775510205"></path>
+<path class="link other" d="M1090.625,678.469387755102C1185.1875,678.469387755102 1185.1875,508.46938775510205 1279.75,508.46938775510205"></path>
+<path class="link other" d="M1090.625,693.469387755102C1185.1875,693.469387755102 1185.1875,518.469387755102 1279.75,518.469387755102"></path>
+<path class="link other" d="M1090.625,708.469387755102C1185.1875,708.469387755102 1185.1875,528.469387755102 1279.75,528.469387755102"></path>
+<path class="link other" d="M1090.625,723.469387755102C1185.1875,723.469387755102 1185.1875,538.469387755102 1279.75,538.469387755102"></path>
+<path class="link alvarista" d="M1090.625,738.469387755102C1185.1875,738.469387755102 1185.1875,548.469387755102 1279.75,548.469387755102"></path>
+<path class="link alvarista" d="M1279.75,548.469387755102C1447.875,548.469387755102 1447.875,457.5 1616,457.5"></path>
+<path class="link other" d="M1426.875,910.969387755102C1521.4375,910.969387755102 1521.4375,467.5 1616,467.5"></path>
+<path class="link other" d="M1426.875,482.5C1521.4375,482.5 1521.4375,477.5 1616,477.5"></path>
+<path class="link originario" d="M1426.875,497.5C1521.4375,497.5 1521.4375,487.5 1616,487.5"></path>
+<path class="link iralista" d="M1426.875,512.5C1521.4375,512.5 1521.4375,497.5 1616,497.5"></path>
+<path class="link iralista" d="M1616,497.5C1784.125,497.5 1784.125,676.1904761904761 1952.25,676.1904761904761"></path>
+<path class="link iralista" d="M1426.875,527.5C1521.4375,527.5 1521.4375,507.5 1616,507.5"></path>
+<path class="link iralista" d="M1616,507.5C1784.125,507.5 1784.125,686.1904761904761 1952.25,686.1904761904761"></path>
+<path class="link alvarista" d="M1426.875,565.969387755102C1521.4375,565.969387755102 1521.4375,517.5 1616,517.5"></path>
+<path class="link other" d="M1426.875,580.969387755102C1521.4375,580.969387755102 1521.4375,527.5 1616,527.5"></path>
+<path class="link originario" d="M1426.875,595.969387755102C1521.4375,595.969387755102 1521.4375,537.5 1616,537.5"></path>
+<path class="link other" d="M1426.875,610.969387755102C1521.4375,610.969387755102 1521.4375,547.5 1616,547.5"></path>
+<path class="link inca" d="M1426.875,625.969387755102C1521.4375,625.969387755102 1521.4375,557.5 1616,557.5"></path>
+<path class="link inca" d="M1426.875,640.969387755102C1521.4375,640.969387755102 1521.4375,567.5 1616,567.5"></path>
+<path class="link originario" d="M1426.875,655.969387755102C1521.4375,655.969387755102 1521.4375,577.5 1616,577.5"></path>
+<path class="link iralista" d="M1426.875,670.969387755102C1521.4375,670.969387755102 1521.4375,587.5 1616,587.5"></path>
+<path class="link iralista" d="M1426.875,685.969387755102C1521.4375,685.969387755102 1521.4375,597.5 1616,597.5"></path>
+<path class="link iralista" d="M1616,597.5C1952.25,597.5 1952.25,895.7692307692307 2288.5,895.7692307692307"></path>
+<path class="link iralista" d="M1426.875,700.969387755102C1521.4375,700.969387755102 1521.4375,607.5 1616,607.5"></path>
+<path class="link iralista" d="M1426.875,715.969387755102C1521.4375,715.969387755102 1521.4375,617.5 1616,617.5"></path>
+<path class="link iralista" d="M1426.875,730.969387755102C1521.4375,730.969387755102 1521.4375,627.5 1616,627.5"></path>
+<path class="link iralista" d="M1426.875,745.969387755102C1521.4375,745.969387755102 1521.4375,637.5 1616,637.5"></path>
+<path class="link iralista" d="M1616,637.5C1784.125,637.5 1784.125,696.1904761904761 1952.25,696.1904761904761"></path>
+<path class="link iralista" d="M1426.875,760.969387755102C1521.4375,760.969387755102 1521.4375,647.5 1616,647.5"></path>
+<path class="link other" d="M1426.875,775.969387755102C1521.4375,775.969387755102 1521.4375,657.5 1616,657.5"></path>
+<path class="link iralista" d="M1426.875,790.969387755102C1521.4375,790.969387755102 1521.4375,667.5 1616,667.5"></path>
+<path class="link iralista" d="M1616,667.5C1784.125,667.5 1784.125,706.1904761904761 1952.25,706.1904761904761"></path>
+<path class="link iralista" d="M1426.875,805.969387755102C1521.4375,805.969387755102 1521.4375,677.5 1616,677.5"></path>
+<path class="link other" d="M1426.875,820.969387755102C1521.4375,820.969387755102 1521.4375,687.5 1616,687.5"></path>
+<path class="link other" d="M1616,687.5C1784.125,687.5 1784.125,716.1904761904761 1952.25,716.1904761904761"></path>
+<path class="link other" d="M1952.25,716.1904761904761C2120.375,716.1904761904761 2120.375,905.7692307692307 2288.5,905.7692307692307"></path>
+<path class="link other" d="M1426.875,835.969387755102C1521.4375,835.969387755102 1521.4375,697.5 1616,697.5"></path>
+<path class="link iralista" d="M1426.875,850.969387755102C1521.4375,850.969387755102 1521.4375,707.5 1616,707.5"></path>
+<path class="link iralista" d="M1616,707.5C1784.125,707.5 1784.125,726.1904761904761 1952.25,726.1904761904761"></path>
+<path class="link other" d="M1426.875,865.969387755102C1521.4375,865.969387755102 1521.4375,717.5 1616,717.5"></path>
+<path class="link iralista" d="M1426.875,880.969387755102C1521.4375,880.969387755102 1521.4375,727.5 1616,727.5"></path>
+<path class="link iralista" d="M1426.875,895.969387755102C1521.4375,895.969387755102 1521.4375,737.5 1616,737.5"></path>
+<path class="link iralista" d="M1616,737.5C1784.125,737.5 1784.125,736.1904761904761 1952.25,736.1904761904761"></path>
+<path class="link iralista" d="M1763.125,755C1857.6875,755 1857.6875,746.1904761904761 1952.25,746.1904761904761"></path>
+<path class="link iralista" d="M1763.125,770C1857.6875,770 1857.6875,756.1904761904761 1952.25,756.1904761904761"></path>
+<path class="link iralista" d="M1763.125,785C1857.6875,785 1857.6875,766.1904761904761 1952.25,766.1904761904761"></path>
+<path class="link iralista" d="M1763.125,800C1857.6875,800 1857.6875,776.1904761904761 1952.25,776.1904761904761"></path>
+<path class="link other" d="M1763.125,815C1857.6875,815 1857.6875,786.1904761904761 1952.25,786.1904761904761"></path>
+<path class="link alvarista" d="M1763.125,830C1857.6875,830 1857.6875,796.1904761904761 1952.25,796.1904761904761"></path>
+<path class="link iralista" d="M1763.125,845C1857.6875,845 1857.6875,806.1904761904761 1952.25,806.1904761904761"></path>
+<path class="link alvarista" d="M1763.125,860C1857.6875,860 1857.6875,816.1904761904761 1952.25,816.1904761904761"></path>
+<path class="link alvarista" d="M1763.125,875C1857.6875,875 1857.6875,826.1904761904761 1952.25,826.1904761904761"></path>
+<path class="link alvarista" d="M1763.125,890C1857.6875,890 1857.6875,836.1904761904761 1952.25,836.1904761904761"></path>
+<path class="link alvarista" d="M1763.125,905C1857.6875,905 1857.6875,846.1904761904761 1952.25,846.1904761904761"></path>
+<path class="link other" d="M1763.125,920C1857.6875,920 1857.6875,856.1904761904761 1952.25,856.1904761904761"></path>
+<path class="link other" d="M1763.125,935C1857.6875,935 1857.6875,866.1904761904761 1952.25,866.1904761904761"></path>
+<path class="link alvarista" d="M1763.125,950C1857.6875,950 1857.6875,876.1904761904761 1952.25,876.1904761904761"></path>
+<path class="link alvarista" d="M1763.125,965C1857.6875,965 1857.6875,886.1904761904761 1952.25,886.1904761904761"></path>
+<path class="link alvarista" d="M1763.125,980C1857.6875,980 1857.6875,896.1904761904761 1952.25,896.1904761904761"></path>
+<path class="link alvarista" d="M1763.125,995C1857.6875,995 1857.6875,906.1904761904761 1952.25,906.1904761904761"></path>
+<path class="link alvarista" d="M1763.125,1010C1857.6875,1010 1857.6875,916.1904761904761 1952.25,916.1904761904761"></path>
+<path class="link alvarista" d="M1763.125,1025C1857.6875,1025 1857.6875,926.1904761904761 1952.25,926.1904761904761"></path>
+<path class="link alvarista" d="M1763.125,1040C1857.6875,1040 1857.6875,936.1904761904761 1952.25,936.1904761904761"></path>
+<path class="link alvarista" d="M1763.125,1055C1857.6875,1055 1857.6875,946.1904761904761 1952.25,946.1904761904761"></path>
+<path class="link alvarista" d="M1763.125,1070C1857.6875,1070 1857.6875,956.1904761904761 1952.25,956.1904761904761"></path>
+<path class="link alvarista" d="M1763.125,1085C1857.6875,1085 1857.6875,966.1904761904761 1952.25,966.1904761904761"></path>
+<path class="link alvarista" d="M1763.125,1100C1857.6875,1100 1857.6875,976.1904761904761 1952.25,976.1904761904761"></path>
+<path class="link alvarista" d="M1763.125,1115C1857.6875,1115 1857.6875,986.1904761904761 1952.25,986.1904761904761"></path>
+<path class="link originario" d="M1763.125,1130C1857.6875,1130 1857.6875,996.1904761904761 1952.25,996.1904761904761"></path>
+<path class="link iralista" d="M1763.125,1145C1857.6875,1145 1857.6875,1006.1904761904761 1952.25,1006.1904761904761"></path>
+<path class="link iralista" d="M1763.125,1160C1857.6875,1160 1857.6875,1016.1904761904761 1952.25,1016.1904761904761"></path>
+<path class="link other" d="M2099.375,892.5C2193.9375,892.5 2193.9375,915.7692307692307 2288.5,915.7692307692307"></path>
+<path class="link iralista" d="M2099.375,907.5C2193.9375,907.5 2193.9375,925.7692307692307 2288.5,925.7692307692307"></path>
+<path class="link other" d="M2099.375,922.5C2193.9375,922.5 2193.9375,935.7692307692307 2288.5,935.7692307692307"></path>
+<path class="link other" d="M2099.375,937.5C2193.9375,937.5 2193.9375,945.7692307692307 2288.5,945.7692307692307"></path>
+<path class="link iralista" d="M2099.375,952.5C2193.9375,952.5 2193.9375,955.7692307692307 2288.5,955.7692307692307"></path>
+<path class="link other" d="M2099.375,967.5C2193.9375,967.5 2193.9375,965.7692307692307 2288.5,965.7692307692307"></path>
+<path class="link iralista" d="M2099.375,982.5C2193.9375,982.5 2193.9375,975.7692307692307 2288.5,975.7692307692307"></path>
+<path class="link iralista" d="M2099.375,997.5C2193.9375,997.5 2193.9375,985.7692307692307 2288.5,985.7692307692307"></path>
+<path class="link other" d="M2099.375,1012.5C2193.9375,1012.5 2193.9375,995.7692307692307 2288.5,995.7692307692307"></path>
+<path class="link other" d="M2099.375,1027.5C2193.9375,1027.5 2193.9375,1005.7692307692307 2288.5,1005.7692307692307"></path>
+<path class="link iralista" d="M2099.375,1042.5C2193.9375,1042.5 2193.9375,1015.7692307692307 2288.5,1015.7692307692307"></path>
+<path class="link other" d="M2099.375,1057.5C2193.9375,1057.5 2193.9375,1025.7692307692307 2288.5,1025.7692307692307"></path>
+<path class="link other" d="M2099.375,1072.5C2193.9375,1072.5 2193.9375,1035.7692307692307 2288.5,1035.7692307692307"></path>
+<path class="link other" d="M2099.375,1087.5C2193.9375,1087.5 2193.9375,1045.7692307692307 2288.5,1045.7692307692307"></path>
+<path class="link other" d="M2099.375,1102.5C2193.9375,1102.5 2193.9375,1055.7692307692307 2288.5,1055.7692307692307"></path>
+<path class="link other" d="M2099.375,1117.5C2193.9375,1117.5 2193.9375,1065.7692307692307 2288.5,1065.7692307692307"></path>
+<path class="link other" d="M2099.375,1132.5C2193.9375,1132.5 2193.9375,1075.7692307692307 2288.5,1075.7692307692307"></path>
+<path class="link other" d="M2099.375,1147.5C2193.9375,1147.5 2193.9375,1085.7692307692307 2288.5,1085.7692307692307"></path>
+<path class="link other" d="M2099.375,1162.5C2193.9375,1162.5 2193.9375,1095.7692307692307 2288.5,1095.7692307692307"></path>
+<path class="link other" d="M2435.625,892.5C2530.1875,892.5 2530.1875,915 2624.75,915"></path>
+<path class="link alvarista" d="M2435.625,907.5C2530.1875,907.5 2530.1875,925 2624.75,925"></path>
+<!-- nodos primera aparición personajes -->
+<g class="intro" transform="translate(250,10)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="alvarista"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Pedro de Mendoza</text>
+<text class="color alvarista" text-anchor="end" y="4px" x="-8px">Pedro de Mendoza</text>
+</g>
+</g>
+<g class="intro" transform="translate(250,25)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="other"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Sebastián Gaboto</text>
+<text class="color other" text-anchor="end" y="4px" x="-8px">Sebastián Gaboto</text>
+</g>
+</g>
+<g class="intro" transform="translate(250,40)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="iralista"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Juan de Ayolas</text>
+<text class="color iralista" text-anchor="end" y="4px" x="-8px">Juan de Ayolas</text>
+</g>
+</g>
+<g class="intro" transform="translate(250,55)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="iralista"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Juan de Salazar Despinosa</text>
+<text class="color iralista" text-anchor="end" y="4px" x="-8px">Juan de Salazar Despinosa</text>
+</g>
+</g>
+<g class="intro" transform="translate(250,70)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="alvarista"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Franco Ruiz</text>
+<text class="color alvarista" text-anchor="end" y="4px" x="-8px">Franco Ruiz</text>
+</g>
+</g>
+<g class="intro" transform="translate(250,85)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="other"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Gonzalo de Alvarado</text>
+<text class="color other" text-anchor="end" y="4px" x="-8px">Gonzalo de Alvarado</text>
+</g>
+</g>
+<g class="intro" transform="translate(250,100)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="iralista"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Juan de Cáceres</text>
+<text class="color iralista" text-anchor="end" y="4px" x="-8px">Juan de Cáceres</text>
+</g>
+</g>
+<g class="intro" transform="translate(250,115)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="iralista"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Garcia Benegas</text>
+<text class="color iralista" text-anchor="end" y="4px" x="-8px">Garcia Benegas</text>
+</g>
+</g>
+<g class="intro" transform="translate(250,130)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="iralista"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Felipe de Caceres</text>
+<text class="color iralista" text-anchor="end" y="4px" x="-8px">Felipe de Caceres</text>
+</g>
+</g>
+<g class="intro" transform="translate(250,145)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="originario"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Payaguás</text>
+<text class="color originario" text-anchor="end" y="4px" x="-8px">Payaguás</text>
+</g>
+</g>
+<g class="intro" transform="translate(250,160)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="iralista"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Domingo de Irala</text>
+<text class="color iralista" text-anchor="end" y="4px" x="-8px">Domingo de Irala</text>
+</g>
+</g>
+<g class="intro" transform="translate(250,175)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="originario"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Carios</text>
+<text class="color originario" text-anchor="end" y="4px" x="-8px">Carios</text>
+</g>
+</g>
+<g class="intro" transform="translate(250,190)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="other"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Leon Pancaldo</text>
+<text class="color other" text-anchor="end" y="4px" x="-8px">Leon Pancaldo</text>
+</g>
+</g>
+<g class="intro" transform="translate(754,120)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="iralista"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Alonso Cabrera</text>
+<text class="color iralista" text-anchor="end" y="4px" x="-8px">Alonso Cabrera</text>
+</g>
+</g>
+<g class="intro" transform="translate(754,135)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="other"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Francisco Ruiz</text>
+<text class="color other" text-anchor="end" y="4px" x="-8px">Francisco Ruiz</text>
+</g>
+</g>
+<g class="intro" transform="translate(754,150)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="originario"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Agaces</text>
+<text class="color originario" text-anchor="end" y="4px" x="-8px">Agaces</text>
+</g>
+</g>
+<g class="intro" transform="translate(754,165)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="originario"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Chaneses</text>
+<text class="color originario" text-anchor="end" y="4px" x="-8px">Chaneses</text>
+</g>
+</g>
+<g class="intro" transform="translate(1091,168)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="iralista"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Carlos de Guevara</text>
+<text class="color iralista" text-anchor="end" y="4px" x="-8px">Carlos de Guevara</text>
+</g>
+</g>
+<g class="intro" transform="translate(1091,183)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="iralista"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Juan de Ortega</text>
+<text class="color iralista" text-anchor="end" y="4px" x="-8px">Juan de Ortega</text>
+</g>
+</g>
+<g class="intro" transform="translate(1091,198)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="iralista"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Pero Diaz del Valle</text>
+<text class="color iralista" text-anchor="end" y="4px" x="-8px">Pero Diaz del Valle</text>
+</g>
+</g>
+<g class="intro" transform="translate(1091,213)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="other"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Martin Canos</text>
+<text class="color other" text-anchor="end" y="4px" x="-8px">Martin Canos</text>
+</g>
+</g>
+<g class="intro" transform="translate(1091,228)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="originario"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Nativa</text>
+<text class="color originario" text-anchor="end" y="4px" x="-8px">Nativa</text>
+</g>
+</g>
+<g class="intro" transform="translate(1091,243)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="originario"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Pedro de Mendoza</text>
+<text class="color originario" text-anchor="end" y="4px" x="-8px">Pedro de Mendoza</text>
+</g>
+</g>
+<g class="intro" transform="translate(1091,258)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="iralista"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Rodrigo Gomez</text>
+<text class="color iralista" text-anchor="end" y="4px" x="-8px">Rodrigo Gomez</text>
+</g>
+</g>
+<g class="intro" transform="translate(1091,273)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="other"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Juan de Burgos</text>
+<text class="color other" text-anchor="end" y="4px" x="-8px">Juan de Burgos</text>
+</g>
+</g>
+<g class="intro" transform="translate(1091,288)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="other"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Carlos Dubrin</text>
+<text class="color other" text-anchor="end" y="4px" x="-8px">Carlos Dubrin</text>
+</g>
+</g>
+<g class="intro" transform="translate(1091,303)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="other"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Gonzalo Rodriguez</text>
+<text class="color other" text-anchor="end" y="4px" x="-8px">Gonzalo Rodriguez</text>
+</g>
+</g>
+<g class="intro" transform="translate(1091,318)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="originario"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Nativos</text>
+<text class="color originario" text-anchor="end" y="4px" x="-8px">Nativos</text>
+</g>
+</g>
+<g class="intro" transform="translate(1091,333)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="originario"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Lorenzo Moquirara</text>
+<text class="color originario" text-anchor="end" y="4px" x="-8px">Lorenzo Moquirara</text>
+</g>
+</g>
+<g class="intro" transform="translate(1091,348)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="iralista"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Andres Fernandez</text>
+<text class="color iralista" text-anchor="end" y="4px" x="-8px">Andres Fernandez</text>
+</g>
+</g>
+<g class="intro" transform="translate(1091,363)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="iralista"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Francisco de Andrada</text>
+<text class="color iralista" text-anchor="end" y="4px" x="-8px">Francisco de Andrada</text>
+</g>
+</g>
+<g class="intro" transform="translate(1091,378)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="other"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Tristan de Ballartas</text>
+<text class="color other" text-anchor="end" y="4px" x="-8px">Tristan de Ballartas</text>
+</g>
+</g>
+<g class="intro" transform="translate(1091,393)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="originario"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Nativo</text>
+<text class="color originario" text-anchor="end" y="4px" x="-8px">Nativo</text>
+</g>
+</g>
+<g class="intro" transform="translate(1091,408)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="originario"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Nativas</text>
+<text class="color originario" text-anchor="end" y="4px" x="-8px">Nativas</text>
+</g>
+</g>
+<g class="intro" transform="translate(1091,423)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="other"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Francisco de Ontiveros</text>
+<text class="color other" text-anchor="end" y="4px" x="-8px">Francisco de Ontiveros</text>
+</g>
+</g>
+<g class="intro" transform="translate(1091,438)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="other"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Francisco de Zamora</text>
+<text class="color other" text-anchor="end" y="4px" x="-8px">Francisco de Zamora</text>
+</g>
+</g>
+<g class="intro" transform="translate(1091,453)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="other"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Diego portugues</text>
+<text class="color other" text-anchor="end" y="4px" x="-8px">Diego portugues</text>
+</g>
+</g>
+<g class="intro" transform="translate(1091,468)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="originario"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Juan Perez</text>
+<text class="color originario" text-anchor="end" y="4px" x="-8px">Juan Perez</text>
+</g>
+</g>
+<g class="intro" transform="translate(1091,483)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="other"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Antonio Pineda</text>
+<text class="color other" text-anchor="end" y="4px" x="-8px">Antonio Pineda</text>
+</g>
+</g>
+<g class="intro" transform="translate(1091,498)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="other"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Francisco Palomino</text>
+<text class="color other" text-anchor="end" y="4px" x="-8px">Francisco Palomino</text>
+</g>
+</g>
+<g class="intro" transform="translate(1091,513)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="iralista"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Lopez de los Rios</text>
+<text class="color iralista" text-anchor="end" y="4px" x="-8px">Lopez de los Rios</text>
+</g>
+</g>
+<g class="intro" transform="translate(1091,528)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="other"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Jacomé Luis</text>
+<text class="color other" text-anchor="end" y="4px" x="-8px">Jacomé Luis</text>
+</g>
+</g>
+<g class="intro" transform="translate(1091,543)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="other"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Francisco Perez</text>
+<text class="color other" text-anchor="end" y="4px" x="-8px">Francisco Perez</text>
+</g>
+</g>
+<g class="intro" transform="translate(1091,558)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="other"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Juan de Santiago</text>
+<text class="color other" text-anchor="end" y="4px" x="-8px">Juan de Santiago</text>
+</g>
+</g>
+<g class="intro" transform="translate(1091,573)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="other"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Gonsalo Chave</text>
+<text class="color other" text-anchor="end" y="4px" x="-8px">Gonsalo Chave</text>
+</g>
+</g>
+<g class="intro" transform="translate(1091,588)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="other"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Estevan de Vallejos</text>
+<text class="color other" text-anchor="end" y="4px" x="-8px">Estevan de Vallejos</text>
+</g>
+</g>
+<g class="intro" transform="translate(1091,603)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="other"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Pero Mendez</text>
+<text class="color other" text-anchor="end" y="4px" x="-8px">Pero Mendez</text>
+</g>
+</g>
+<g class="intro" transform="translate(1091,618)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="originario"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Abacote</text>
+<text class="color originario" text-anchor="end" y="4px" x="-8px">Abacote</text>
+</g>
+</g>
+<g class="intro" transform="translate(1091,633)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="other"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Nuño Cabrera</text>
+<text class="color other" text-anchor="end" y="4px" x="-8px">Nuño Cabrera</text>
+</g>
+</g>
+<g class="intro" transform="translate(1091,648)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="iralista"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Sancho de Salinas</text>
+<text class="color iralista" text-anchor="end" y="4px" x="-8px">Sancho de Salinas</text>
+</g>
+</g>
+<g class="intro" transform="translate(1091,663)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="other"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Pero Bocanegra</text>
+<text class="color other" text-anchor="end" y="4px" x="-8px">Pero Bocanegra</text>
+</g>
+</g>
+<g class="intro" transform="translate(1091,678)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="other"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Juan Ruiz</text>
+<text class="color other" text-anchor="end" y="4px" x="-8px">Juan Ruiz</text>
+</g>
+</g>
+<g class="intro" transform="translate(1091,693)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="other"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Francisco Gimenes</text>
+<text class="color other" text-anchor="end" y="4px" x="-8px">Francisco Gimenes</text>
+</g>
+</g>
+<g class="intro" transform="translate(1091,708)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="other"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Hernando Barrio Nuevo</text>
+<text class="color other" text-anchor="end" y="4px" x="-8px">Hernando Barrio Nuevo</text>
+</g>
+</g>
+<g class="intro" transform="translate(1091,723)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="other"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Agustin de Madrid</text>
+<text class="color other" text-anchor="end" y="4px" x="-8px">Agustin de Madrid</text>
+</g>
+</g>
+<g class="intro" transform="translate(1091,738)" style="font-weight: bold;">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="alvarista"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Alvar Nuñez Cabeza de Vaca</text>
+<text class="color alvarista" text-anchor="end" y="4px" x="-8px">Alvar Nuñez Cabeza de Vaca</text>
+</g>
+</g>
+<g class="intro" transform="translate(1427,911)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="other"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Bernardo de Castañeda</text>
+<text class="color other" text-anchor="end" y="4px" x="-8px">Bernardo de Castañeda</text>
+</g>
+</g>
+<g class="intro" transform="translate(1427,483)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="other"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Antonio de Ayala</text>
+<text class="color other" text-anchor="end" y="4px" x="-8px">Antonio de Ayala</text>
+</g>
+</g>
+<g class="intro" transform="translate(1427,498)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="originario"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Guaycarias</text>
+<text class="color originario" text-anchor="end" y="4px" x="-8px">Guaycarias</text>
+</g>
+</g>
+<g class="intro" transform="translate(1427,513)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="iralista"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Bernardo de Armenta</text>
+<text class="color iralista" text-anchor="end" y="4px" x="-8px">Bernardo de Armenta</text>
+</g>
+</g>
+<g class="intro" transform="translate(1427,528)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="iralista"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Alonso Lebron</text>
+<text class="color iralista" text-anchor="end" y="4px" x="-8px">Alonso Lebron</text>
+</g>
+</g>
+<g class="intro" transform="translate(1427,566)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="alvarista"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Pedro Estopiña Cabeza de Vaca</text>
+<text class="color alvarista" text-anchor="end" y="4px" x="-8px">Pedro Estopiña Cabeza de Vaca</text>
+</g>
+</g>
+<g class="intro" transform="translate(1427,581)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="other"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Francisco de Ribera</text>
+<text class="color other" text-anchor="end" y="4px" x="-8px">Francisco de Ribera</text>
+</g>
+</g>
+<g class="intro" transform="translate(1427,596)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="originario"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Guajarapos</text>
+<text class="color originario" text-anchor="end" y="4px" x="-8px">Guajarapos</text>
+</g>
+</g>
+<g class="intro" transform="translate(1427,611)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="other"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Hernando de Ribera</text>
+<text class="color other" text-anchor="end" y="4px" x="-8px">Hernando de Ribera</text>
+</g>
+</g>
+<g class="intro" transform="translate(1427,626)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="inca"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Tarapecoas</text>
+<text class="color inca" text-anchor="end" y="4px" x="-8px">Tarapecoas</text>
+</g>
+</g>
+<g class="intro" transform="translate(1427,641)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="inca"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Indio orejon</text>
+<text class="color inca" text-anchor="end" y="4px" x="-8px">Indio orejon</text>
+</g>
+</g>
+<g class="intro" transform="translate(1427,656)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="originario"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Xaralles</text>
+<text class="color originario" text-anchor="end" y="4px" x="-8px">Xaralles</text>
+</g>
+</g>
+<g class="intro" transform="translate(1427,671)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="iralista"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Pedro Doñate</text>
+<text class="color iralista" text-anchor="end" y="4px" x="-8px">Pedro Doñate</text>
+</g>
+</g>
+<g class="intro" transform="translate(1427,686)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="iralista"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Francisco de Mendoza</text>
+<text class="color iralista" text-anchor="end" y="4px" x="-8px">Francisco de Mendoza</text>
+</g>
+</g>
+<g class="intro" transform="translate(1427,701)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="iralista"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Alonso de Angulo</text>
+<text class="color iralista" text-anchor="end" y="4px" x="-8px">Alonso de Angulo</text>
+</g>
+</g>
+<g class="intro" transform="translate(1427,716)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="iralista"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Fernan Arias de Mansilla</text>
+<text class="color iralista" text-anchor="end" y="4px" x="-8px">Fernan Arias de Mansilla</text>
+</g>
+</g>
+<g class="intro" transform="translate(1427,731)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="iralista"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Galiano de Neyra</text>
+<text class="color iralista" text-anchor="end" y="4px" x="-8px">Galiano de Neyra</text>
+</g>
+</g>
+<g class="intro" transform="translate(1427,746)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="iralista"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Juan Xuare</text>
+<text class="color iralista" text-anchor="end" y="4px" x="-8px">Juan Xuare</text>
+</g>
+</g>
+<g class="intro" transform="translate(1427,761)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="iralista"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Francisco Romero</text>
+<text class="color iralista" text-anchor="end" y="4px" x="-8px">Francisco Romero</text>
+</g>
+</g>
+<g class="intro" transform="translate(1427,776)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="other"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Jaime Rasquin</text>
+<text class="color other" text-anchor="end" y="4px" x="-8px">Jaime Rasquin</text>
+</g>
+</g>
+<g class="intro" transform="translate(1427,791)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="iralista"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Bartolomé Gonzalez</text>
+<text class="color iralista" text-anchor="end" y="4px" x="-8px">Bartolomé Gonzalez</text>
+</g>
+</g>
+<g class="intro" transform="translate(1427,806)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="iralista"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Hernando de Sosa</text>
+<text class="color iralista" text-anchor="end" y="4px" x="-8px">Hernando de Sosa</text>
+</g>
+</g>
+<g class="intro" transform="translate(1427,821)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="other"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Gonzalo de Mendoza</text>
+<text class="color other" text-anchor="end" y="4px" x="-8px">Gonzalo de Mendoza</text>
+</g>
+</g>
+<g class="intro" transform="translate(1427,836)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="other"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Luis Vaillo</text>
+<text class="color other" text-anchor="end" y="4px" x="-8px">Luis Vaillo</text>
+</g>
+</g>
+<g class="intro" transform="translate(1427,851)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="iralista"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Martin de Orue</text>
+<text class="color iralista" text-anchor="end" y="4px" x="-8px">Martin de Orue</text>
+</g>
+</g>
+<g class="intro" transform="translate(1427,866)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="other"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Francisco de Peralta</text>
+<text class="color other" text-anchor="end" y="4px" x="-8px">Francisco de Peralta</text>
+</g>
+</g>
+<g class="intro" transform="translate(1427,881)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="iralista"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Francisco de Vergara</text>
+<text class="color iralista" text-anchor="end" y="4px" x="-8px">Francisco de Vergara</text>
+</g>
+</g>
+<g class="intro" transform="translate(1427,896)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="iralista"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Lope Dagarte</text>
+<text class="color iralista" text-anchor="end" y="4px" x="-8px">Lope Dagarte</text>
+</g>
+</g>
+<g class="intro" transform="translate(1763,755)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="iralista"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Bartolomé de la Amarilla</text>
+<text class="color iralista" text-anchor="end" y="4px" x="-8px">Bartolomé de la Amarilla</text>
+</g>
+</g>
+<g class="intro" transform="translate(1763,770)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="iralista"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Francisco de Coimbra</text>
+<text class="color iralista" text-anchor="end" y="4px" x="-8px">Francisco de Coimbra</text>
+</g>
+</g>
+<g class="intro" transform="translate(1763,785)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="iralista"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Francisco Galan</text>
+<text class="color iralista" text-anchor="end" y="4px" x="-8px">Francisco Galan</text>
+</g>
+</g>
+<g class="intro" transform="translate(1763,800)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="iralista"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Juan Gabriel de Lescano</text>
+<text class="color iralista" text-anchor="end" y="4px" x="-8px">Juan Gabriel de Lescano</text>
+</g>
+</g>
+<g class="intro" transform="translate(1763,815)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="other"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Martin Gonzalez Fonseca</text>
+<text class="color other" text-anchor="end" y="4px" x="-8px">Martin Gonzalez Fonseca</text>
+</g>
+</g>
+<g class="intro" transform="translate(1763,830)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="alvarista"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Luis de Herresuelo</text>
+<text class="color alvarista" text-anchor="end" y="4px" x="-8px">Luis de Herresuelo</text>
+</g>
+</g>
+<g class="intro" transform="translate(1763,845)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="iralista"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Alonso de Valenzuela</text>
+<text class="color iralista" text-anchor="end" y="4px" x="-8px">Alonso de Valenzuela</text>
+</g>
+</g>
+<g class="intro" transform="translate(1763,860)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="alvarista"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Juan de Zalazar</text>
+<text class="color alvarista" text-anchor="end" y="4px" x="-8px">Juan de Zalazar</text>
+</g>
+</g>
+<g class="intro" transform="translate(1763,875)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="alvarista"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Francisco Gonzalez Paniagua</text>
+<text class="color alvarista" text-anchor="end" y="4px" x="-8px">Francisco Gonzalez Paniagua</text>
+</g>
+</g>
+<g class="intro" transform="translate(1763,890)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="alvarista"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Luis de Miranda</text>
+<text class="color alvarista" text-anchor="end" y="4px" x="-8px">Luis de Miranda</text>
+</g>
+</g>
+<g class="intro" transform="translate(1763,905)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="alvarista"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Cristoval Brabo</text>
+<text class="color alvarista" text-anchor="end" y="4px" x="-8px">Cristoval Brabo</text>
+</g>
+</g>
+<g class="intro" transform="translate(1763,920)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="other"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Pedro de Castro</text>
+<text class="color other" text-anchor="end" y="4px" x="-8px">Pedro de Castro</text>
+</g>
+</g>
+<g class="intro" transform="translate(1763,935)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="other"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Andrés Montalvo</text>
+<text class="color other" text-anchor="end" y="4px" x="-8px">Andrés Montalvo</text>
+</g>
+</g>
+<g class="intro" transform="translate(1763,950)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="alvarista"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Francisco Garcia</text>
+<text class="color alvarista" text-anchor="end" y="4px" x="-8px">Francisco Garcia</text>
+</g>
+</g>
+<g class="intro" transform="translate(1763,965)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="alvarista"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Juan de Sotelo</text>
+<text class="color alvarista" text-anchor="end" y="4px" x="-8px">Juan de Sotelo</text>
+</g>
+</g>
+<g class="intro" transform="translate(1763,980)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="alvarista"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Francisco Delgadillo</text>
+<text class="color alvarista" text-anchor="end" y="4px" x="-8px">Francisco Delgadillo</text>
+</g>
+</g>
+<g class="intro" transform="translate(1763,995)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="alvarista"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Antonio Higuera</text>
+<text class="color alvarista" text-anchor="end" y="4px" x="-8px">Antonio Higuera</text>
+</g>
+</g>
+<g class="intro" transform="translate(1763,1010)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="alvarista"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Gonzalo Portillo</text>
+<text class="color alvarista" text-anchor="end" y="4px" x="-8px">Gonzalo Portillo</text>
+</g>
+</g>
+<g class="intro" transform="translate(1763,1025)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="alvarista"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Melchor Nuñez</text>
+<text class="color alvarista" text-anchor="end" y="4px" x="-8px">Melchor Nuñez</text>
+</g>
+</g>
+<g class="intro" transform="translate(1763,1040)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="alvarista"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Alonso del Castillo</text>
+<text class="color alvarista" text-anchor="end" y="4px" x="-8px">Alonso del Castillo</text>
+</g>
+</g>
+<g class="intro" transform="translate(1763,1055)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="alvarista"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Antón del Castillo</text>
+<text class="color alvarista" text-anchor="end" y="4px" x="-8px">Antón del Castillo</text>
+</g>
+</g>
+<g class="intro" transform="translate(1763,1070)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="alvarista"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Francisco de Loudoño</text>
+<text class="color alvarista" text-anchor="end" y="4px" x="-8px">Francisco de Loudoño</text>
+</g>
+</g>
+<g class="intro" transform="translate(1763,1085)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="alvarista"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Pedro de Esquivel</text>
+<text class="color alvarista" text-anchor="end" y="4px" x="-8px">Pedro de Esquivel</text>
+</g>
+</g>
+<g class="intro" transform="translate(1763,1100)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="alvarista"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Gregorio de Acosta</text>
+<text class="color alvarista" text-anchor="end" y="4px" x="-8px">Gregorio de Acosta</text>
+</g>
+</g>
+<g class="intro" transform="translate(1763,1115)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="alvarista"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Pedro de Melina</text>
+<text class="color alvarista" text-anchor="end" y="4px" x="-8px">Pedro de Melina</text>
+</g>
+</g>
+<g class="intro" transform="translate(1763,1130)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="originario"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Tinbuay</text>
+<text class="color originario" text-anchor="end" y="4px" x="-8px">Tinbuay</text>
+</g>
+</g>
+<g class="intro" transform="translate(1763,1145)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="iralista"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Juan Vizcaino</text>
+<text class="color iralista" text-anchor="end" y="4px" x="-8px">Juan Vizcaino</text>
+</g>
+</g>
+<g class="intro" transform="translate(1763,1160)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="iralista"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Baltasar de Sevilla</text>
+<text class="color iralista" text-anchor="end" y="4px" x="-8px">Baltasar de Sevilla</text>
+</g>
+</g>
+<g class="intro" transform="translate(2099,893)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="other"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Domingo Martinez</text>
+<text class="color other" text-anchor="end" y="4px" x="-8px">Domingo Martinez</text>
+</g>
+</g>
+<g class="intro" transform="translate(2099,908)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="iralista"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Zoilo de Solórzano</text>
+<text class="color iralista" text-anchor="end" y="4px" x="-8px">Zoilo de Solórzano</text>
+</g>
+</g>
+<g class="intro" transform="translate(2099,923)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="other"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Miguel Herrero</text>
+<text class="color other" text-anchor="end" y="4px" x="-8px">Miguel Herrero</text>
+</g>
+</g>
+<g class="intro" transform="translate(2099,938)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="other"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Pedro Gallego</text>
+<text class="color other" text-anchor="end" y="4px" x="-8px">Pedro Gallego</text>
+</g>
+</g>
+<g class="intro" transform="translate(2099,953)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="iralista"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Pero Benites</text>
+<text class="color iralista" text-anchor="end" y="4px" x="-8px">Pero Benites</text>
+</g>
+</g>
+<g class="intro" transform="translate(2099,968)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="other"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Leonardo Aleman</text>
+<text class="color other" text-anchor="end" y="4px" x="-8px">Leonardo Aleman</text>
+</g>
+</g>
+<g class="intro" transform="translate(2099,983)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="iralista"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Pedro Dorantes</text>
+<text class="color iralista" text-anchor="end" y="4px" x="-8px">Pedro Dorantes</text>
+</g>
+</g>
+<g class="intro" transform="translate(2099,998)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="iralista"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Gonzalo de Acosta</text>
+<text class="color iralista" text-anchor="end" y="4px" x="-8px">Gonzalo de Acosta</text>
+</g>
+</g>
+<g class="intro" transform="translate(2099,1013)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="other"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Gonzalo Moraño</text>
+<text class="color other" text-anchor="end" y="4px" x="-8px">Gonzalo Moraño</text>
+</g>
+</g>
+<g class="intro" transform="translate(2099,1028)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="other"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Rodrigo Garcia</text>
+<text class="color other" text-anchor="end" y="4px" x="-8px">Rodrigo Garcia</text>
+</g>
+</g>
+<g class="intro" transform="translate(2099,1043)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="iralista"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Francisco Alvarez Gaitan</text>
+<text class="color iralista" text-anchor="end" y="4px" x="-8px">Francisco Alvarez Gaitan</text>
+</g>
+</g>
+<g class="intro" transform="translate(2099,1058)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="other"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Pedro de Aguilera</text>
+<text class="color other" text-anchor="end" y="4px" x="-8px">Pedro de Aguilera</text>
+</g>
+</g>
+<g class="intro" transform="translate(2099,1073)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="other"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Damian Dorias</text>
+<text class="color other" text-anchor="end" y="4px" x="-8px">Damian Dorias</text>
+</g>
+</g>
+<g class="intro" transform="translate(2099,1088)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="other"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Francisco Sanchez</text>
+<text class="color other" text-anchor="end" y="4px" x="-8px">Francisco Sanchez</text>
+</g>
+</g>
+<g class="intro" transform="translate(2099,1103)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="other"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Anton Martin Escaso</text>
+<text class="color other" text-anchor="end" y="4px" x="-8px">Anton Martin Escaso</text>
+</g>
+</g>
+<g class="intro" transform="translate(2099,1118)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="other"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Rodrigo de Osuna</text>
+<text class="color other" text-anchor="end" y="4px" x="-8px">Rodrigo de Osuna</text>
+</g>
+</g>
+<g class="intro" transform="translate(2099,1133)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="other"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Luis Osorio</text>
+<text class="color other" text-anchor="end" y="4px" x="-8px">Luis Osorio</text>
+</g>
+</g>
+<g class="intro" transform="translate(2099,1148)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="other"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Francisco de Sepulveda</text>
+<text class="color other" text-anchor="end" y="4px" x="-8px">Francisco de Sepulveda</text>
+</g>
+</g>
+<g class="intro" transform="translate(2099,1163)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="other"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Francisco Lopez</text>
+<text class="color other" text-anchor="end" y="4px" x="-8px">Francisco Lopez</text>
+</g>
+</g>
+<g class="intro" transform="translate(2436,893)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="other"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Juan Hernandez</text>
+<text class="color other" text-anchor="end" y="4px" x="-8px">Juan Hernandez</text>
+</g>
+</g>
+<g class="intro" transform="translate(2436,908)">
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="alvarista"></rect>
+<g class="text">
+<text text-anchor="end" y="4px" x="-8px">Pero Hernandez</text>
+<text class="color alvarista" text-anchor="end" y="4px" x="-8px">Pero Hernandez</text>
+</g>
+</g>
+</svg>
