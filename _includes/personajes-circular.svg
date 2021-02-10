@@ -1,4 +1,4 @@
-<svg width="1200" height="1200" viewBox="0 0 1250 1250" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<svg class="personajes" width="1200" height="1200" viewBox="0 0 1210 1230" xmlns="http://www.w3.org/2000/svg" version="1.1">
 <g transform="translate(552, 562)">
 	<!-- indios -->
 	<path class="link" style="fill: none; stroke: rgb(204, 204, 204); stroke-width: 1px;" d="M76.69755113444307,-153.95286827461024C38.34877556722154,-76.97643413730512 27.29746797623024,81.55273289158791 0,0">
@@ -515,7 +515,7 @@
 	<g class="node" transform="rotate(218.04123711340202)translate(430)">
 	<circle r="4.5" style="fill: rgb(238, 238, 238); stroke: rgb(153, 153, 153); stroke-width: 1px;">
 	</circle>
-	<text dy=".31em" text-anchor="end" transform="rotate(180)translate(-8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif;"><a href="{{site.baseurl}}/nombres-destacados">Francisco Ruiz</a></text>
+	<text dy=".31em" text-anchor="end" transform="rotate(180)translate(-8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif;"><a href="{{site.baseurl}}/nombres-destacados/#francisco-ruiz">Francisco Ruiz</a></text>
 	</g>
 	<g class="node" transform="rotate(219.89690721649487)translate(430)">
 	<circle r="4.5" style="fill: rgb(238, 238, 238); stroke: rgb(153, 153, 153); stroke-width: 1px;">
@@ -1201,7 +1201,7 @@
 	<g class="node" transform="rotate(4.639175257731964)translate(430)">
 	<circle r="4.5" style="fill: #f1dddd; stroke: #841212; stroke-width: 1px;">
 	</circle>
-	<text dy=".31em" text-anchor="start" transform="translate(8)" style="font-size: 16px; font-family: Athelas, Palatino, Georgia, serif;"><a href="{{site.baseurl}}/nombres-destacados/#portfolioModal-domingo-irala">Domingo de Irala</a></text>
+	<text dy=".31em" text-anchor="start" transform="translate(8)" style="font-size: 16px; font-family: Athelas, Palatino, Georgia, serif;"><a href="{{site.baseurl}}/nombres-destacados/#domingo-irala">Domingo de Irala</a></text>
 	</g>
 	<g class="node" transform="rotate(6.4948453608247405)translate(430)">
 	<circle r="4.5" style="fill: rgb(238, 238, 238); stroke: rgb(153, 153, 153); stroke-width: 1px;">
@@ -1231,7 +1231,7 @@
 	<g class="node" transform="rotate(45.463917525773184)translate(430)">
 	<circle r="4.5" style="fill: rgb(238, 238, 238); stroke: rgb(153, 153, 153); stroke-width: 1px;">
 	</circle>
-	<text dy=".31em" text-anchor="start" transform="translate(8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif;"><a href="{{site.baseurl}}/nombres-destacados">Garcia Benegas</a></text>
+	<text dy=".31em" text-anchor="start" transform="translate(8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif;"><a href="{{site.baseurl}}/nombres-destacados/#garcia-benegas">Garcia Benegas</a></text>
 	</g>
 	<g class="node" transform="rotate(49.175257731958766)translate(430)">
 	<circle r="4.5" style="fill: rgb(238, 238, 238); stroke: rgb(153, 153, 153); stroke-width: 1px;">
@@ -1241,7 +1241,7 @@
 	<g class="node" transform="rotate(51.03092783505156)translate(430)">
 	<circle r="4.5" style="fill: rgb(238, 238, 238); stroke: rgb(153, 153, 153); stroke-width: 1px;">
 	</circle>
-	<text dy=".31em" text-anchor="start" transform="translate(8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif;"><a href="{{site.baseurl}}/nombres-destacados">Bartolomé Gonzalez</a></text>
+	<text dy=".31em" text-anchor="start" transform="translate(8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif;"><a href="{{site.baseurl}}/nombres-destacados/#bartolome-gonzalez">Bartolomé Gonzalez</a></text>
 	</g>
 	<g class="node" transform="rotate(54.74226804123711)translate(430)">
 	<circle r="4.5" style="fill: rgb(238, 238, 238); stroke: rgb(153, 153, 153); stroke-width: 1px;">

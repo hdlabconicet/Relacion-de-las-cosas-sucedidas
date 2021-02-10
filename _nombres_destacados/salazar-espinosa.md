@@ -1,14 +1,13 @@
 ---
 nombre: Juan de Salazar y Espinoza
-determinante: El
 fechas: 
 posicion: conquistador, iralista, militar, capitán
 img: ../assets/img/conquistador.jpg
 lnk: juan-salazar-espinosa
-detalle: 
+pagina: pg_0002
 fuente: Wikimedia Commons
 fuente_url: https://upload.wikimedia.org/wikipedia/commons/d/d5/Conquistador_espa%C3%B1ol.JPG
-detalle:
+detalle: seguimiento del capitan Juan de Salazar con dos bergantines é sesenta onbres
 comentario: hay otra imagen más linda pero por licencia no sé si se puede usar. ver assets 
 ---
 

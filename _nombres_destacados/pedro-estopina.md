@@ -1,11 +1,10 @@
 ---
 nombre: Pedro Estopiña Cabeza de Vaca
-determinante: El
 fechas: 
 posicion: conquistador, alvarista, militar
 img: ../assets/img/conquistador.jpg
 lnk: pedro-estopina
-detalle: 
+pagina: 
 fuente: Wikimedia Commons
 fuente_url: https://upload.wikimedia.org/wikipedia/commons/d/d5/Conquistador_espa%C3%B1ol.JPG
 detalle: 

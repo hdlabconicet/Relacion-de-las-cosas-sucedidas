@@ -93,10 +93,10 @@ a:hover {
   border-bottom: 1px dotted;
 }
 
+/* Map tooltip */
 .map-balloon{
 	color: #841212;
 	border-bottom: none;
-
 }
 
 .map-balloon:hover{
@@ -105,13 +105,13 @@ a:hover {
 	cursor: default;
 }
 
+/* Indice de secciones */
 .link-index {
   font-size: 13px; 
   font-style: italic; 
 }
 
 /* El tamaño está definido en bootstrap.css */
-
 .caret {
 	color: #841212;
 }
@@ -190,4 +190,10 @@ path.iralista {
 
 .intro text+text.originario {
     fill: #a83c6d;
+}
+
+/* Dendrograma personajes */
+.personajes {
+	max-width: 100%;
+	height: auto;
 }
