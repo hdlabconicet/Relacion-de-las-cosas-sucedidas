@@ -7,13 +7,36 @@ description: Representación gráfica de partes del texto y apariciones de perso
 icon: chart
 ---
 
-<p>El siguiente diagrama pretende sintetizar elementos textuales de <i>Relacion de las cosas sucedidas</i>: las diferentes secciones en las que se divide el texto, los personajes confluyen en dichas secciones y las facciones a las que pertenecen. Permite apreciar de un pantallazo el importante número de actores que intervienen en el relato, cómo la mayor parte de ellos hacen su aparición en las secciones centrales. También deja en evidencia los contados personajes que atraviesan todo el relato -Domingo de Irala, Juan de Salazar, García Benegas y Felipe de Cáceres- y la abrumadora mayoría de partidarios de Domingo de Irala.</p>
+<p>Los diagramas de narrativa son un tipo de diagrama de flujo que muestra interacciones de personajes a lo largo del tiempo. Son una variante de los <a href="https://es.wikipedia.org/wiki/Diagrama_de_Sankey">diagramas de Sankey</a> basada en los <i>movie charts</i> de la tira <a href="https://xkcd.com/657/">xkcd</a>. El eje horizontal representa el tiempo mientras que los grupos verticales simbolizan copresencia de personajes en un mismo momento.</p>
 
-<p>es un tipo de diagrama de flujo donde . Variante de los <a href="https://en.wikipedia.org/wiki/Sankey_diagram">diagramas de Sankey</a>, basado en los movie charts de la tira <a href="https://xkcd.com/657/">xkcd</a>. </p>
+<p>El siguiente diagrama sintetiza componentes narrativos de <i>Relacion de las cosas sucedidas en el Río de la Plata</i>: las secciones identificadas en el texto, los personajes que confluyen en dichas secciones y las facciones a las que pertenece cada uno. Permite apreciar de un pantallazo el importante número de actores que intervienen en la historia y cómo la mayor parte de ellos hacen su aparición en las secciones centrales. También deja en evidencia los contados personajes que atraviesan todo el relato -Domingo de Irala, García Benegas y Felipe de Cáceres- y la abrumadora mayoría de partidarios de Domingo de Irala.</p>
 
-<p>fue elaborado usando <a href="https://d3js.org/">d3</a>.</p>
+<div class="alert alert-warning py-2" role="alert">
+	Hacer click en la imagen para ampliar.
+	<button type="button" class="close" data-dismiss="alert" aria-label="Close">
+		<span aria-hidden="true">×</span>
+	</button>
+</div>
 
-<p>Avanzar hacia la derecha ----> </p>
-<br><br><br>
 
-{% include narrative-chart.svg %}
+<div id="pop-up" class="white-popup mfp-hide dragscroll" style="overflow: scroll; cursor: grab; cursor : -o-grab; cursor : -moz-grab; cursor : -webkit-grab;">
+	{% include narrative-chart.svg %}
+</div>
+
+<div class="py-4">
+<a class="image-link" href="#pop-up">
+	<img src="{{site.baseurl}}/assets/img/narrative-chart.png">
+</a>
+</div>
+
+<p>Esta visualización fue elaborada usando un <a href="https://github.com/abcnews/d3-layout-narrative"> motor de diseño</a> para <a href="https://d3js.org/">d3</a>, una librería JavaScript para la creación de visualizaciones web.</p>
+
+<script type="text/javascript">
+
+	$(document).ready(function() {
+	  $('.image-link').magnificPopup({
+	  	type: 'inline',
+	  });
+	});
+
+</script>

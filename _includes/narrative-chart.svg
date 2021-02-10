@@ -1,4 +1,4 @@
-<svg id="narrative-chart" width="2940" height="1170">
+<svg id="narrative-chart" width="2500" height="1200" viewBox="75 0 2700 1200">
 <!-- escenas y apariciones de personajes -->
 <g class="scene" transform="translate(586.5,0.5)">
 <rect width="42" height="140" y="0" x="0" rx="10"></rect>
@@ -104,8 +104,8 @@
 <circle cx="21" cy="190" r="2" class="appearance other"></circle>
 <circle cx="21" cy="200" r="2" class="appearance originario"></circle>
 <circle cx="21" cy="210" r="2" class="appearance other"></circle>
-<circle cx="21" cy="220" r="2" class="appearance inca"></circle>
-<circle cx="21" cy="230" r="2" class="appearance inca"></circle>
+<circle cx="21" cy="220" r="2" class="appearance originario"></circle>
+<circle cx="21" cy="230" r="2" class="appearance originario"></circle>
 <circle cx="21" cy="240" r="2" class="appearance originario"></circle>
 <circle cx="21" cy="250" r="2" class="appearance iralista"></circle>
 <circle cx="21" cy="260" r="2" class="appearance iralista"></circle>
@@ -313,8 +313,8 @@
 <path class="link other" d="M1426.875,580.969387755102C1521.4375,580.969387755102 1521.4375,527.5 1616,527.5"></path>
 <path class="link originario" d="M1426.875,595.969387755102C1521.4375,595.969387755102 1521.4375,537.5 1616,537.5"></path>
 <path class="link other" d="M1426.875,610.969387755102C1521.4375,610.969387755102 1521.4375,547.5 1616,547.5"></path>
-<path class="link inca" d="M1426.875,625.969387755102C1521.4375,625.969387755102 1521.4375,557.5 1616,557.5"></path>
-<path class="link inca" d="M1426.875,640.969387755102C1521.4375,640.969387755102 1521.4375,567.5 1616,567.5"></path>
+<path class="link originario" d="M1426.875,625.969387755102C1521.4375,625.969387755102 1521.4375,557.5 1616,557.5"></path>
+<path class="link originario" d="M1426.875,640.969387755102C1521.4375,640.969387755102 1521.4375,567.5 1616,567.5"></path>
 <path class="link originario" d="M1426.875,655.969387755102C1521.4375,655.969387755102 1521.4375,577.5 1616,577.5"></path>
 <path class="link iralista" d="M1426.875,670.969387755102C1521.4375,670.969387755102 1521.4375,587.5 1616,587.5"></path>
 <path class="link iralista" d="M1426.875,685.969387755102C1521.4375,685.969387755102 1521.4375,597.5 1616,597.5"></path>
@@ -459,7 +459,7 @@
 <text class="color originario" text-anchor="end" y="4px" x="-8px">Payaguás</text>
 </g>
 </g>
-<g class="intro" transform="translate(250,160)">
+<g class="intro" transform="translate(250,160)" style="font-weight: bold;">
 <rect y="-4" x="-4" width="4" height="8" rx="1" class="iralista"></rect>
 <g class="text">
 <text text-anchor="end" y="4px" x="-8px">Domingo de Irala</text>
@@ -845,17 +845,17 @@
 </g>
 </g>
 <g class="intro" transform="translate(1427,626)">
-<rect y="-4" x="-4" width="4" height="8" rx="1" class="inca"></rect>
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="originario"></rect>
 <g class="text">
 <text text-anchor="end" y="4px" x="-8px">Tarapecoas</text>
-<text class="color inca" text-anchor="end" y="4px" x="-8px">Tarapecoas</text>
+<text class="color originario" text-anchor="end" y="4px" x="-8px">Tarapecoas</text>
 </g>
 </g>
 <g class="intro" transform="translate(1427,641)">
-<rect y="-4" x="-4" width="4" height="8" rx="1" class="inca"></rect>
+<rect y="-4" x="-4" width="4" height="8" rx="1" class="originario"></rect>
 <g class="text">
 <text text-anchor="end" y="4px" x="-8px">Indio orejon</text>
-<text class="color inca" text-anchor="end" y="4px" x="-8px">Indio orejon</text>
+<text class="color originario" text-anchor="end" y="4px" x="-8px">Indio orejon</text>
 </g>
 </g>
 <g class="intro" transform="translate(1427,656)">
