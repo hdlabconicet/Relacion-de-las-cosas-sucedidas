@@ -9,7 +9,7 @@ icon: chart
 
 <p>Los diagramas de narrativa son un tipo de diagrama de flujo que muestra interacciones de personajes a lo largo del tiempo. Son una variante de los <a href="https://es.wikipedia.org/wiki/Diagrama_de_Sankey">diagramas de Sankey</a> basada en los <i>movie charts</i> de la tira <a href="https://xkcd.com/657/">xkcd</a>. El eje horizontal representa el tiempo mientras que los grupos verticales simbolizan copresencia de personajes en un mismo momento.</p>
 
-<p>El siguiente diagrama sintetiza componentes narrativos de <i>Relacion de las cosas sucedidas en el Río de la Plata</i>: las secciones identificadas en el texto, los personajes que confluyen en dichas secciones y las facciones a las que pertenece cada uno. Permite apreciar de un pantallazo el importante número de actores que intervienen en la historia y cómo la mayor parte de ellos hacen su aparición en las secciones centrales. También deja en evidencia los contados personajes que atraviesan todo el relato -Domingo de Irala, García Benegas y Felipe de Cáceres- y la abrumadora mayoría de partidarios de Domingo de Irala.</p>
+<p>El siguiente diagrama sintetiza componentes narrativos de <i>Relacion de las cosas sucedidas en el Río de la Plata</i>: las <a href="{{site.baseurl}}/indice">secciones</a> identificadas en el texto, los <a href="{{site.baseurl}}/nombres-destacados">personajes</a> que confluyen en dichas secciones y las facciones a las que pertenece cada uno (<span style="color: #df8429;">partidarios de Irala</span>, <span style="color: #3ca3a8;">partidarios de Álvar Núñez</span>, <span style="color: #a83c6d;">pueblos originarios</span>). Permite apreciar de un pantallazo el importante número de actores que intervienen en la historia y cómo la mayor parte de ellos hacen su aparición en las secciones centrales. También deja en evidencia los contados personajes que atraviesan todo el relato -<a href="{{site.baseurl}}/nombres-destacados/#domingo-irala">Domingo de Irala</a>, <a href="{{site.baseurl}}/nombres-destacados/#garcia-benegas">García Benegas</a> y <a href="{{site.baseurl}}/nombres-destacados/#felipe-caceres">Felipe de Cáceres</a>- y la abrumadora mayoría de partidarios de Domingo de Irala.</p>
 
 <div class="alert alert-warning py-2" role="alert">
 	Hacer click en la imagen para ampliar.
@@ -18,25 +18,29 @@ icon: chart
 	</button>
 </div>
 
-
-<div id="pop-up" class="white-popup mfp-hide dragscroll" style="overflow: scroll; cursor: grab; cursor : -o-grab; cursor : -moz-grab; cursor : -webkit-grab;">
-	{% include narrative-chart.svg %}
-</div>
-
-<div class="py-4">
-<a class="image-link" href="#pop-up">
+<div class="py-3">
+<a class="image-link" href="#pop-up" style="cursor: zoom-in;">
 	<img src="{{site.baseurl}}/assets/img/narrative-chart.png">
 </a>
+</div>
+
+<!-- Modal -->
+<div id="pop-up" class="white-popup mfp-hide dragscroll" style="overflow: scroll; cursor: grab; cursor : -o-grab; cursor : -moz-grab; cursor : -webkit-grab;">
+	<div class="px-3">
+        <div class="px-3 py-3">
+		<h3>Entramado narrativo de <i>Relación de las cosas sucedidas en el Río de la Plata</i></h3>
+		<p class="py-2">Deslice hacia la derecha para avanzar en el relato. Cada personaje tiene una línea argumental. Los colores representan filiaciones: <span style="color: #df8429;">partidarios de Irala</span>, <span style="color: #3ca3a8;">partidarios de Álvar Núñez</span>, <span style="color: #a83c6d;">pueblos originarios</span>, <span style="color:#787878;">no identificado</span>. Los nodos correspoden a las secciones identificadas en el texto y los puntos indican aparición de un personaje en dicha sección.</p>
+		{% include narrative-chart.svg %}
+		</div>
+	</div>
 </div>
 
 <p>Esta visualización fue elaborada usando un <a href="https://github.com/abcnews/d3-layout-narrative"> motor de diseño</a> para <a href="https://d3js.org/">d3</a>, una librería JavaScript para la creación de visualizaciones web.</p>
 
 <script type="text/javascript">
-
 	$(document).ready(function() {
 	  $('.image-link').magnificPopup({
 	  	type: 'inline',
 	  });
 	});
-
 </script>
