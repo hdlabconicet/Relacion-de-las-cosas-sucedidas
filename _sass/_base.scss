@@ -197,3 +197,24 @@ path.iralista {
 	max-width: 100%;
 	height: auto;
 }
+
+text > a {
+	text-decoration: underline;
+	text-decoration-style: dotted;
+}
+
+text > a:hover {
+  text-decoration: none;
+}
+
+
+.div-only-mobile {
+	display: none;
+}
+@media screen and (max-width: 849px) {
+
+.div-only-mobile {
+    display: block;
+}
+
+}

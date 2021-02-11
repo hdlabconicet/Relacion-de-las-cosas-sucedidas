@@ -495,7 +495,7 @@
 	<g class="node" transform="rotate(210.6185567010309)translate(430)">
 	<circle r="4.5" style="fill: rgb(238, 238, 238); stroke: rgb(153, 153, 153); stroke-width: 1px;">
 	</circle>
-	<text dy=".31em" text-anchor="end" transform="rotate(180)translate(-8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif;">Francisco Gonzalez Paniagua</text>
+	<text dy=".31em" text-anchor="end" transform="rotate(180)translate(-8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif;"><a href="{{site.baseurl}}/nombres-destacados/#francisco-gonzalez-paniagua">Francisco Gonzalez Paniagua</a></text>
 	</g>
 	<g class="node" transform="rotate(212.4742268041237)translate(430)">
 	<circle r="4.5" style="fill: rgb(238, 238, 238); stroke: rgb(153, 153, 153); stroke-width: 1px;">
@@ -730,7 +730,7 @@
 	<g class="node" transform="rotate(71.44329896907217)translate(430)">
 	<circle r="4.5" style="fill: rgb(238, 238, 238); stroke: rgb(153, 153, 153); stroke-width: 1px;">
 	</circle>
-	<text dy=".31em" text-anchor="start" transform="translate(8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif;"><a href="{{site.baseurl}}/nombres-destacados">Francisco de Mendoza</a></text>
+	<text dy=".31em" text-anchor="start" transform="translate(8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif;"><a href="{{site.baseurl}}/nombres-destacados/#francisco-mendoza">Francisco de Mendoza</a></text>
 	</g>
 	<g class="node" transform="rotate(73.29896907216494)translate(430)">
 	<circle r="4.5" style="fill: rgb(238, 238, 238); stroke: rgb(153, 153, 153); stroke-width: 1px;">
@@ -1101,7 +1101,7 @@
 	<g class="node" transform="rotate(125.25773195876289)translate(430)">
 	<circle r="4.5" style="fill: rgb(238, 238, 238); stroke: rgb(153, 153, 153); stroke-width: 1px;">
 	</circle>
-	<text dy=".31em" text-anchor="end" transform="rotate(180)translate(-8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif;"><a href="{{site.baseurl}}/nombres-destacados">Pedro Estopiña Cabeza de Vaca</a></text>
+	<text dy=".31em" text-anchor="end" transform="rotate(180)translate(-8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif;"><a href="{{site.baseurl}}/nombres-destacados/#pedro-estopina">Pedro Estopiña Cabeza de Vaca</a></text>
 	</g>
 	<g class="node" transform="rotate(127.11340206185565)translate(430)">
 	<circle r="4.5" style="fill: rgb(238, 238, 238); stroke: rgb(153, 153, 153); stroke-width: 1px;">
@@ -1216,7 +1216,7 @@
 	<g class="node" transform="rotate(26.907216494845372)translate(430)">
 	<circle r="4.5" style="fill: rgb(238, 238, 238); stroke: rgb(153, 153, 153); stroke-width: 1px;">
 	</circle>
-	<text dy=".31em" text-anchor="start" transform="translate(8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif;">Juan de Salazar Despinosa</text>
+	<text dy=".31em" text-anchor="start" transform="translate(8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif;"><a class="color-link" href="{{site.baseurl}}/nombres-destacados/#juan-salazar-espinosa">Juan de Salazar Despinosa</a></text>
 	</g>
 	<g class="node" transform="rotate(36.18556701030927)translate(430)">
 	<circle r="4.5" style="fill: rgb(238, 238, 238); stroke: rgb(153, 153, 153); stroke-width: 1px;">
@@ -1246,7 +1246,7 @@
 	<g class="node" transform="rotate(54.74226804123711)translate(430)">
 	<circle r="4.5" style="fill: rgb(238, 238, 238); stroke: rgb(153, 153, 153); stroke-width: 1px;">
 	</circle>
-	<text dy=".31em" text-anchor="start" transform="translate(8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif;"><a href="{{site.baseurl}}/nombres-destacados">Felipe de Cáceres</a></text>
+	<text dy=".31em" text-anchor="start" transform="translate(8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif;"><a href="{{site.baseurl}}/nombres-destacados/#felipe-caceres">Felipe de Cáceres</a></text>
 	</g>
 	<g class="node" transform="rotate(56.5979381443299)translate(430)">
 	<circle r="4.5" style="fill: rgb(238, 238, 238); stroke: rgb(153, 153, 153); stroke-width: 1px;">
@@ -1256,7 +1256,7 @@
 	<g class="node" transform="rotate(60.309278350515456)translate(430)">
 	<circle r="4.5" style="fill: rgb(238, 238, 238); stroke: rgb(153, 153, 153); stroke-width: 1px;">
 	</circle>
-	<text dy=".31em" text-anchor="start" transform="translate(8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif;"><a href="{{site.baseurl}}/nombres-destacados">Pedro Dorantes</a></text>
+	<text dy=".31em" text-anchor="start" transform="translate(8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif;"><a href="{{site.baseurl}}/nombres-destacados/#pedro-dorantes">Pedro Dorantes</a></text>
 	</g>
 	<g class="node" transform="rotate(64.02061855670101)translate(430)">
 	<circle r="4.5" style="fill: rgb(238, 238, 238); stroke: rgb(153, 153, 153); stroke-width: 1px;">
@@ -1287,22 +1287,22 @@
 	<g class="node" transform="rotate(134.53608247422682)translate(430)">
 	<circle r="4.5" style="fill: rgb(238, 238, 238); stroke: rgb(153, 153, 153); stroke-width: 1px;">
 	</circle>
-	<text dy=".31em" text-anchor="end" transform="rotate(180)translate(-8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif;"><a href="{{site.baseurl}}/nombres-destacados">Pedro de Mendoza</a></text>
+	<text dy=".31em" text-anchor="end" transform="rotate(180)translate(-8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif;"><a href="{{site.baseurl}}/nombres-destacados/#pedro-de-mendoza">Pedro de Mendoza</a></text>
 	</g>
 	<g class="node" transform="rotate(141.95876288659795)translate(430)">
 	<circle r="4.5" style="fill: rgb(238, 238, 238); stroke: rgb(153, 153, 153); stroke-width: 1px;">
 	</circle>
-	<text dy=".31em" text-anchor="end" transform="rotate(180)translate(-8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif;"><a href="{{site.baseurl}}/nombres-destacados">Juan de Zalazar</a></text>
+	<text dy=".31em" text-anchor="end" transform="rotate(180)translate(-8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif;"><a href="{{site.baseurl}}/nombres-destacados/#juan-zalazar">Juan de Zalazar</a></text>
 	</g>
 	<g class="node" transform="rotate(145.6701030927835)translate(430)">
 	<circle r="4.5" style="fill: rgb(238, 238, 238); stroke: rgb(153, 153, 153); stroke-width: 1px;">
 	</circle>
-	<text dy=".31em" text-anchor="end" transform="rotate(180)translate(-8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif;"><a href="{{site.baseurl}}/nombres-destacados">Luis de Herresuelo</a></text>
+	<text dy=".31em" text-anchor="end" transform="rotate(180)translate(-8)" style="font-size: 14px; font-family: Athelas, Palatino, Georgia, serif;"><a href="{{site.baseurl}}/nombres-destacados/#luis-herrezuelo">Luis de Herresuelo</a></text>
 	</g>
 	<g class="node" transform="rotate(149.38144329896906)translate(430)">
 	<circle r="4.5" style="fill: rgb(238, 238, 238); stroke: rgb(153, 153, 153); stroke-width: 1px;">
 	</circle>
-	<text dy=".31em" text-anchor="end" transform="rotate(180)translate(-8)" style="font-size: 16px; font-family: Athelas, Palatino, Georgia, serif; font-style: italic;"><a href="{{site.baseurl}}/nombres-destacados">Pero Hernández</a></text>
+	<text dy=".31em" text-anchor="end" transform="rotate(180)translate(-8)" style="font-size: 16px; font-family: Athelas, Palatino, Georgia, serif; font-style: italic;"><a href="{{site.baseurl}}/nombres-destacados/#pero-hernandez">Pero Hernández</a></text>
 	</g>
 </g>
 <text x="1050" y="1070" style="font-size: 8px;">HDCAICYTLAB

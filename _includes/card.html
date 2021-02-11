@@ -16,6 +16,7 @@
       <a class="post-card__inner" href="#portfolioModal-{{personaje.lnk}}" class="portfolio-link" data-toggle="modal">
         <div class="post-card__header">
           <h3>{{personaje.nombre}}</h3>
+          <span class="post-card__meta">{{personaje.fechas}}</span>
           <span>{{ personaje.content | strip_html | truncatewords:10 }} </span>
         </div>
       </a>
