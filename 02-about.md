@@ -41,7 +41,7 @@ Citar esta edición como:
 
 <p style="font-size: 14px;">del Rio Riande, Gimena, Hernández, Nidia y De León, Romina (eds.). (2020). Pero Hernández. <i>Relación del descubrimiento del Río de la Plata</i>. HD CAICYT Lab. <a href="{{ site.baseurl }}/">http://hdlab.space/Relacion-del-descubrimiento/</a> [Fecha de consulta]</p>
 
-Repositorio de datos: <a class="no-underline" href=""><img src="" alt="DOI badge"/></a>
+Repositorio de datos: <a href="https://zenodo.org/badge/latestdoi/276203694"><img src="https://zenodo.org/badge/276203694.svg" alt="DOI"></a>
 
 <script type="text/javascript">
 	$(document).ready(function() {
