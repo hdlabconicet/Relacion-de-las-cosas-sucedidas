@@ -20,7 +20,7 @@ Desde las Humanidades Digitales, otra lectura datificada, como la que propone el
 
 <div class="py-3">
 <a class="image-link" href="#pop-up" style="cursor: zoom-in;">
-	<img src="{{site.baseurl}}/assets/img/narrative-chart.png">
+	<!-- imagen del narrative chart <img src=""> -->
 </a>
 </div>
 
@@ -30,7 +30,7 @@ Desde las Humanidades Digitales, otra lectura datificada, como la que propone el
         <div class="px-3 py-3">
 		<h3>Entramado narrativo de <i>Relación de las cosas sucedidas en el Río de la Plata</i></h3>
 		<p class="py-2">Deslice hacia la derecha para avanzar en el relato. Cada personaje tiene una línea argumental. Los colores representan filiaciones: <span style="color: #df8429;">partidarios de Irala</span>, <span style="color: #3ca3a8;">partidarios de Álvar Núñez</span>, <span style="color: #a83c6d;">pueblos originarios</span>, <span style="color:#787878;">no identificado</span>. Los nodos correspoden a las secciones identificadas en el texto y los puntos indican aparición de un personaje en dicha sección.</p>
-		{% include narrative-chart.svg %}
+		<!-- include del narrative chart -->
 		</div>
 	</div>
 </div>
