@@ -5,11 +5,7 @@ permalink: /recursos/
 type: extras
 ---
 
-
-<!-- Recursos -->
 <div class="container mx-auto px-2">
-	<!-- <div class="border-top-thick">  Linea larga 
-	<div class="col-1 sm-width-full border-top-thick"> </div> Linea corta -->
   <div class="py-1 mb-0 prose">
    <h2 class="h2 lh-condensed col-9 mb-2">
       <svg class="bi bi-tag" width="0.8em" height="0.8em" viewBox="0 0 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
@@ -19,17 +15,17 @@ type: extras
   </h2>
   <a class="h3 lh-condensed" href="https://recogito.pelagios.org/document/0mrqeahfgz6elr/part/1/edit" target="_blank"><p>El relato de Pero Hernández disponible en una plataforma de anotación colaborativa</p></a></div>
 
-  <div class="py-1 mb-0 prose">
+  <!--div class="py-1 mb-0 prose">
   <h2 class="h2 lh-condensed col-9 mb-2">
     <svg class="bi bi-bar-chart" width="0.8em" height="0.8em" viewBox="0 0 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
       <path fill-rule="evenodd" d="M4 11H2v3h2v-3zm5-4H7v7h2V7zm5-5h-2v12h2V2zm-2-1a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h2a1 1 0 0 0 1-1V2a1 1 0 0 0-1-1h-2zM6 7a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1v7a1 1 0 0 1-1 1H7a1 1 0 0 1-1-1V7zm-5 4a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1H2a1 1 0 0 1-1-1v-3z"/>
     </svg>
     <a class="no-underline" title="Texto en Voyant" href="https://voyant-tools.org/?corpus=b6177981ed1e6aaab269acfa3c8ff5fe" target="_blank">Voyant Tools</a>
   </h2>
-  <a class="h3 lh-condensed" href="" target="_blank"><p>Estadísticas textuales y visualizaciones de Relación del descubrimiento del Río de la Plata</p></a></div>
+  <a class="h3 lh-condensed" href="" target="_blank"><p>Estadísticas textuales y visualizaciones de Relación del descubrimiento del Río de la Plata</p></a></div-->
 
   {% for post in site.recursos %}
     {% include post_block.html %}
   {% endfor %}
 
-</div><!-- End Recursos -->
+</div>
