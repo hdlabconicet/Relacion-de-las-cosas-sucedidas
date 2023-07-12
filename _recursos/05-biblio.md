@@ -21,7 +21,7 @@ icon: book
 
 * El Jaber, Loreley, "Álvar Núñez Cabeza de Vaca. Gustos y olvidos. Legalidad, viaje y escritura", en Cuadernos del CILHA, vol. 13, núm. 17, 2012, p. 56-73.
 
-* Gandini, María Juliana, "Experiencias desde los márgenes. Armas, letras y alteridad en los Comentarios de Álvar Núñez Cabeza de Vaca (1555)", en Anuario del Centro de Estudios Históricos «Prof. Carlos S. A. Segreti», año 1. https://revistas.unc.edu.ar/index.php/anuarioceh/article/view/22702/223212, núm. 12, 2012, pp. 81-96.
+* Gandini, María Juliana, "[Experiencias desde los márgenes. Armas, letras y alteridad en los Comentarios de Álvar Núñez Cabeza de Vaca (1555)"] (https://revistas.unc.edu.ar/index.php/anuarioceh/article/view/22702/223212), en Anuario del Centro de Estudios Históricos «Prof. Carlos S. A. Segreti», año 1., núm. 12, 2012, pp. 81-96.
 
 * Ojeda, Miguel."[El burgalés Juan de Ayolas en la exploración y fundaciones del Nuevo Mundo](https://riubu.ubu.es/bitstream/handle/10259.4/1054/0211-8998_n127_p187-199.pdf?sequence=1)", en Boletín de la Institución Fernán González, Burgos, Diputación Provincial,1954.   
 
