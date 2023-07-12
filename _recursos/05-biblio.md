@@ -6,7 +6,7 @@ type: extras
 icon: book
 ---
 
-### Ediciones de Pero Hernández
+### Ediciones de la Relación de las cosas sucedidas en el Río de la Plata de Pero Hernández
 
 * Apéndice B del "Viaje al Río de la Plata" de Ulrich Schmídel. Edición de Bartolomé Mitre. Buenos Aires, Cabaut y Cía., 1903.
 
