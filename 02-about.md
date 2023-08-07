@@ -5,7 +5,6 @@ permalink: /acerca-de/
 type: extras
 ---
 
-## Acerca de esta edición digital
 
 “En las partes del Poniente,/ Es el Río de la Plata/ Conquista la más ingrata”. El Romance elegíaco de Luis de Miranda (1951) podría sintetizar, de algún modo, el sabor que deja la lectura de la Relación de las cosas sucedidas en el Río de la Plata, de Pero Hernández, escribano de Alvar Núñez Cabeza de Vaca (1555). El texto, condensado y fragmentario, también conocido como Comentarios…, cuando se publica junto a la Relación (o Naufragios) de Alvar Núñez (1545), relata, entre otras cosas, la suerte de varios adelantados y hombres de la corona española en el Río de la Plata -Cabeza de Vaca, Domingo Martínez de Irala, Alonso Cabrera o García Venegas-, y la espantosa violencia ejercida sobre las indias y los indios del Paraguay y el Plata.
 
