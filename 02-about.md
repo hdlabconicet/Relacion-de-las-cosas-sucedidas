@@ -11,7 +11,7 @@ type: extras
 Desde las Humanidades Digitales, otra lectura datificada, como la que propone el siguiente <a href="{{ site.baseurl }}/narrative-chart">diagrama de narrativa</a>, nos despoja del conflicto para montar un escenario algo más humano donde se perciben con claridad los diferentes roles que tensionan el relato. Así, el dato parece suspender, por un momento, el horror de la Conquista. 
 
 <div class="alert alert-warning py-2" role="alert">
-	Diagrama de narrativa
+	Véase Diagrama de narrativa
 	<button type="button" class="close" data-dismiss="alert" aria-label="Close">
 		<span aria-hidden="true">×</span>
 	</button>
