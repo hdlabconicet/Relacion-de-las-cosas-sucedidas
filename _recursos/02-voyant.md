@@ -3,11 +3,11 @@ layout: page
 title: Análisis textual automatizado
 permalink: /voyant/
 type: extras
-description: Análisis textual automatizado con Voyant Tools
+description: Estadísticas textuales y visualizaciones del texto realizadas con Voyant Tools
 icon: bar-chart
 ---
 
-Exploración del contenido de _Relación de las cosas sucedidas en el Río de la Plata_ con [Voyant Tools](https://voyant-tools.org/), una herramienta de lectura distante y análisis textual automatizado de textos digitales.
+Exploración del contenido de _Relación de las cosas sucedidas en el Río de la Plata_ con [Voyant Tools](https://voyant-tools.org/), una herramienta de lectura distante y análisis estadístico de textos digitales.
 
 Las siguientes secciones presentan cuadros interactivos. En cada panel, deslice el cursor sobre la esquina derecha de la barra superior para mostrar las opciones. El ícono <i class="fa-solid fa-question" style="color:#157fcc;"></i> permite acceder a una explicación de la herramienta usada en cada panel. El ícono <i class="fa-solid fa-toggle-on" style="color:#157fcc;"></i> permite modificar las opciones de la herramienta.
 
