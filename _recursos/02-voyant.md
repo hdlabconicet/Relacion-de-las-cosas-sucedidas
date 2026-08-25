@@ -23,7 +23,7 @@ Deslice la barra de términos para aumentar o disminuir la cantidad de palabras 
 
 Contexto enunciativo de las palabras más frecuentes del texto. Puede modificar por frecuencia ascendente o descendente.
 
-<iframe class="py-3" src="https://service.sadilar.org/voyant/tool/Contexts/?palette=Set1&stopList=keywords-9c79e83d2cc42939d62581a127dc5aa3&query=%C3%A9&corpus=765d53fd4253557c46ee09cf707926b4"></iframe>
+<iframe class="py-3" src="https://service.sadilar.org/voyant/tool/Contexts/?palette=Set1&stopList=keywords-9c79e83d2cc42939d62581a127dc5aa3&query=gobernador&query=irala&query=domingo&view=textualarc&corpus=765d53fd4253557c46ee09cf707926b4"></iframe>
 
 Modifique el término a consultar desde el menú inferior izquierdo.
 
